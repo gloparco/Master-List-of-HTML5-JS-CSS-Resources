@@ -11,8 +11,9 @@ Please feel free to contribute - the more the merrier!
 # Table of Contents
 
 * [Technologies](#technologies)
-	* **[HTML5](#html5):** [Books & Reference](#html5-books), [Performance](#html5-performance), [Templates](#html5-templates), [eBook Frameworks](#html5-ebooks)
+	* **[HTML5](#html5):** [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
 	* **[JavaScript](#javascript):** [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+	* **[CSS3](#css3):** [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
 * [Tools for Design](#designTools)
 * [Tools for Development](#developerTools)
 * [Techniques](#techniques)
@@ -163,23 +164,28 @@ Please feel free to contribute - the more the merrier!
 * [JavaScripture](http://www.javascripture.com/)
 * [wtfjs](http://wtfjs.com/)
 
+<a name="css3"/>
 ## CSS3
 
+<a name="css-ext"/>
 ### Stylesheet Language Extensions
 * [LESS](http://lesscss.org/)
 * [Sass](http://sass-lang.com/)
 * [Stylus](http://learnboost.github.com/stylus/)
 
+<a name="css-grids"/>
 ### Grid Systems
 * [960.gs](http://960.gs/)
 * [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
 * [YAML CSS Framework](http://www.yaml.de/)
 * [Blueprint](http://www.blueprintcss.org/)
 
+<a name="css-frameworks"/>
 ### Frameworks
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [Foundation](http://foundation.zurb.com/)
 
+<a name="css-misc"/>
 ### Various Useful Links
 * [Google Web Fonts](http://www.google.com/webfonts)
 * [normalize.css](https://github.com/necolas/normalize.css/)
