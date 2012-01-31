@@ -16,9 +16,10 @@ Please feel free to contribute - the more the merrier!
 * **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
 
 ### [Tools for Design](#designTools)
-* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
-* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
-* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
+* **[Interactive Mockups](#mockups)
+* **[Graphics & Image Editors](#graphicsEditors)
+* **[Vector Graphics Editors](#vectorEditors)
+* **[Animation](#animation)
 
 ### [Tools for Development](#developerTools)
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
@@ -206,21 +207,25 @@ Please feel free to contribute - the more the merrier!
 <a name="designTools"/>
 # Tools for Design
 
+<a name="mockups"/>
 ### Interactive Mockups
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
 	* [Keynote Kung-Fu](http://keynotekungfu.com/)
 	* [Keynotopia](http://keynotopia.com/)
 
+<a name="graphicsEditors"/>
 ### Graphics & Image Editors
 * [Pixelmator](http://www.pixelmator.com/)
 * [Adobe Photoshop](http://success.adobe.com/en/na/sem/products/photoshop.html)
 * [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
 
+<a name="vectorEditors"/>
 ### Vector Graphics Editors
 * [Inkscape](http://inkscape.org/)
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Corel Draw](http://www.corel.com/corel/category.jsp?rootCat=cat20146&cat=cat3430091)
 
+<a name="animation"/>
 ### Animation
 * [Tumult Hype](http://tumultco.com/hype/)
 * [Adobe Edge](http://labs.adobe.com/technologies/edge/)
