@@ -180,11 +180,11 @@ Please feel free to contribute - the more the merrier!
 * [ProCSSor](http://procssorapp.com/)
 
 ## Performance
-[Benchmark.js](http://benchmarkjs.com/)
-[jsPerf](http://jsperf.com/)
+* [Benchmark.js](http://benchmarkjs.com/)
+* [jsPerf](http://jsperf.com/)
 
 ## Code Sharing
-[jsFiddle](http://jsfiddle.net)
+* [jsFiddle](http://jsfiddle.net)
 
 ## Debugging
 * [weinre](http://phonegap.github.com/weinre/)
