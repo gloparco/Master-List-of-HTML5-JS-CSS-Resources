@@ -332,23 +332,23 @@ Please feel free to contribute - the more the merrier!
 # Techniques
 
 <a name="cssTechniques"/>
-## CSS
+### CSS
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
 
 <a name="jsBlogs"/>
-## JavaScript Blogs & Showcases
+### JavaScript Blogs & Showcases
 * [CreativeJS](http://creativejs.com/)
 * [Seb Lee-Delisle](http://sebleedelisle.com/)
 * [o2.js](http://o2js.com/)
 
 <a name="jsPatterns"/>
-## JavaScript Patterns
+### JavaScript Patterns
 * [JavaScript Module Pattern](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
 * [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
 
 <a name="sublimeTips"/>
-## Sublime Text 2 Tips
+### Sublime Text 2 Tips
 * [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
