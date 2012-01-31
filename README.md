@@ -19,9 +19,7 @@ Please feel free to contribute - the more the merrier!
 * [Interactive Mockups](#mockups) ・ [Graphics & Image Editors](#graphicsEditors) ・ [Vector Graphics Editors](#vectorEditors) ・ [Animation](#animation)
 
 ### [Tools for Development](#developerTools)
-* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
-* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
-* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
+* [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl)
 
 ### [Techniques](#techniques)
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
@@ -232,6 +230,7 @@ Please feel free to contribute - the more the merrier!
 <a name="developerTools"/>
 # Tools for Development
 
+<a name="codeEditorsX"/>
 ### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
 	* [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
@@ -240,18 +239,22 @@ Please feel free to contribute - the more the merrier!
 	* [SideBarGit](https://github.com/SublimeText/SideBarGit)
 	* [Gene Loparco's Theme](http://blog.elemdage.com/wp-content/uploads/2012/01/Theme-Gene.zip)
 
+<a name="codeEditorsMac"/>
 ### Code Editors: Mac Only
 * [TextMate](http://macromates.com/)
 * [MacVim](http://code.google.com/p/macvim/)
 * [BBEdit](http://www.barebones.com/products/bbedit/index.html?utm_source=thedeck&utm_medium=banner&utm_campaign=bbedit)
 * [TextWrangler](http://www.barebones.com/products/textwrangler/)
 
+<a name="codeEditorsWin"/>
 ### Code Editors: Windows Only
 * [TextPad](http://www.textpad.com/)
 
+<a name="cssEditors"/>
 ### CSS Editors
 * [bluePen](http://www.bluepeneditor.com/)
 
+<a name="ide"/>
 ### Integrated Development Environments (IDE)
 * [WebStorm](http://www.jetbrains.com/webstorm/)
 * [NetBeans](http://netbeans.org/)
@@ -260,10 +263,12 @@ Please feel free to contribute - the more the merrier!
 * [Coda](http://panic.com/coda/)
 * [Espresso](http://macrabbit.com/espresso/)
 
+<a name="codeQuality"/>
 ### Code Quality
 * [jslint](http://www.jslint.com/)
 * [JSHint](http://www.jshint.com/)
 
+<a name="build"/>
 ### Build Tools & Compressors
 * [Google Closure Compiler](http://code.google.com/closure/compiler/)
 * [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
@@ -271,18 +276,22 @@ Please feel free to contribute - the more the merrier!
 * [SimpLESS](http://wearekiss.com/simpless)
 * [ProCSSor](http://procssorapp.com/)
 
+<a name="performance"/>
 ### Performance
 * [Benchmark.js](http://benchmarkjs.com/)
 * [jsPerf](http://jsperf.com/)
 
+<a name="codeSharing"/>
 ### Code Sharing
 * [jsFiddle](http://jsfiddle.net)
 
+<a name="debugging"/>
 ### Debugging
 * [weinre](http://phonegap.github.com/weinre/)
 * [Resize](http://resizeSafari.com/)
 * [resizeMyBrowser](http://resizeMyBrowser.com/)
 
+<a name="testing"/>
 ### Testing
 * [testling](http://www.testling.com/)
 * [Unit Test](https://gist.github.com/976405)
@@ -292,16 +301,19 @@ Please feel free to contribute - the more the merrier!
 * [Tutti](http://tuttijs.com/)
 * [Remote-Tilt](http://remote-tilt.com/)
 
+<a name="emulators"/>
 ### Emulators
 * [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
 * [Adobe Device Central](http://www.adobe.com/products/devicecentral.html)
 
+<a name="docGenerators"/>
 ### Documentation Generators
 * [JSDoc2](http://code.google.com/p/jsdoc-toolkit/)
 * [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
 * [PDoc](http://pdoc.org/)
 * [docco](http://jashkenas.github.com/docco/)
 
+<a name="mobileDeployment"/>
 ### Mobile Deployment
 * [PhoneGap](http://phonegap.com/)
 * [Titanium](http://www.appcelerator.com/products/titanium-cross-platform-application-development/)
@@ -309,6 +321,7 @@ Please feel free to contribute - the more the merrier!
 * [NimbleKit](http://www.nimblekit.com/)
 * [TestFlight](https://testflightapp.com/)
 
+<a name="versionControl"/>
 ### Version Control
 * [Git Reference](http://gitref.org/)
 * [Gitbox](http://www.gitboxapp.com/)
