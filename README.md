@@ -8,6 +8,15 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
+# Table of Contents
+
+* [Technologies](#Technologies)
+* [Tools for Design](#Tools for Design)
+* [Tools for Development](#Tools for Development)
+* [Techniques](#Techniques)
+
+---
+
 # Technologies
 
 ## HTML5
