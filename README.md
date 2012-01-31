@@ -20,8 +20,10 @@ Please feel free to contribute - the more the merrier!
 ---
 <a name="technologies"/>
 # Technologies
+
 <a name="html5"/>
 ## HTML5
+
 <a name="html5-books"/>
 ### Books & Reference
 * [Dive Into HTML5](http://diveintohtml5.info/)
