@@ -8,6 +8,22 @@ Please feel free to contribute - the more the merrier!
 
 ## HTML5
 
+### Books & Reference
+* [Dive Into HTML5](http://diveintohtml5.info/)
+* [HTML5 Rocks](http://www.html5rocks.com)
+* [HTML5 Readiness](http://html5readiness.com/)
+* [When can I use...](http://caniuse.com/)
+* [HTML5 & CSS3 Support](http://www.findmebyip.com/litmus/)
+* [HTML5 Demos](http://html5demos.com/)
+* [The HTML5 test](http://html5test.com/)
+* [Periodic Table of the Elements](http://joshduck.com/periodic-table.html)
+* [W3C HTML5 Specification](http://www.w3.org/TR/html5/)
+* [WHATWG HTML Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
+* [A Web Developer's Guide to HTML5](http://dev.w3.org/html5/html-author/)
+
+### Performance
+* [Page Speed](http://code.google.com/speed/page-speed/)
+
 ## JavaScript
 
 ### General Purpose Frameworks
@@ -28,6 +44,7 @@ Please feel free to contribute - the more the merrier!
 ### Mobile Frameworks without Widgets
 * [zepto.js](http://zeptojs.com/)
 * [xui.js](http://xuijs.com/)
+* [RightJS](http://rightjs.org/)
 * [EmbedJS](http://uxebu.github.com/embedjs/)
 
 ### MVC Frameworks
@@ -39,6 +56,9 @@ Please feel free to contribute - the more the merrier!
 * [batman.js](http://batmanjs.org/)
 * [Spine](http://spinejs.com/)
 
+### Template Libraries
+* [minimal.js](https://github.com/ruidlopes/minimal.js)
+
 ### Charting
 * [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
 * [Google Chart Tools / Image Charts (aka Chart API) - Google Code](http://code.google.com/apis/chart/)
@@ -49,6 +69,16 @@ Please feel free to contribute - the more the merrier!
 * [Simulchart](http://www.simulchart.com/)
 * [Smoothie Charts](http://smoothiecharts.org/)
 * [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
+
+### Graphics Libraries
+* [Processing.js](http://processingjs.org/)
+
+### Messaging
+* [TIBCO PageBus](http://developer.tibco.com/pagebus/)
+
+### Books & Reference
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/)
 
 ## CSS3
 
@@ -69,6 +99,7 @@ Please feel free to contribute - the more the merrier!
 ## Graphics & Image Editors
 * [Pixelmator](http://www.pixelmator.com/)
 * [Adobe Photoshop](http://success.adobe.com/en/na/sem/products/photoshop.html)
+* [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
 
 ## Vector Graphics Editors
 * [Inkscape](http://inkscape.org/)
@@ -101,9 +132,22 @@ Please feel free to contribute - the more the merrier!
 * [Coda](http://panic.com/coda/)
 * [Espresso](http://macrabbit.com/espresso/)
 
+## Code Quality
+* [jslint](http://www.jslint.com/)
+* [JSHint](http://www.jshint.com/)
+
 ## Build Tools
+* [Google Closure Compiler](http://code.google.com/closure/compiler/)
+* [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 * [CodeKit](http://incident57.com/codekit/)
 * [SimpLESS](http://wearekiss.com/simpless)
+
+## Performance
+[Benchmark.js](http://benchmarkjs.com/)
+[jsPerf](http://jsperf.com/)
+
+## Code Sharing
+[jsFiddle](http://jsfiddle.net)
 
 ## Debugging
 * [weinre](http://phonegap.github.com/weinre/)
@@ -114,6 +158,8 @@ Please feel free to contribute - the more the merrier!
 * [testling](http://www.testling.com/)
 * [Unit Test](https://gist.github.com/976405)
 * [YUI Test](http://developer.yahoo.com/yui/yuitest/)
+* [Zombie.js](http://zombie.labnotes.org/)
+* [js-test-driver](http://code.google.com/p/js-test-driver/)
 
 ## Emulators
 * [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
@@ -129,6 +175,7 @@ Please feel free to contribute - the more the merrier!
 * [PhoneGap](http://phonegap.com/)
 * [Titanium](http://www.appcelerator.com/products/titanium-cross-platform-application-development/)
 * [appMobi](http://www.appmobi.com/)
+* [NimbleKit](http://www.nimblekit.com/)
 * [TestFlight](https://testflightapp.com/)
 
 ---
@@ -184,7 +231,7 @@ for-pragmatists-5386409)
 [jQuery vs MooTools: Choosing Between Two Great JavaScript
 Frameworks](http://jqueryvsmootools.com/)
 
-[Knockout : Home](http://knockoutjs.com/)
+
 
 [RightJS: Welcome Home!](http://rightjs.org/)
 
@@ -211,140 +258,7 @@ Frameworks](http://jqueryvsmootools.com/)
 
 # HTML Features
 
-## Audio & Video
 
-[4.8.6 The video element — HTML5](http://www.w3.org/TR/html5/video.html)[Embed Audio and Video in HTML 5 Pages
-| Webmonkey | Wired.com
-
-](http://www.webmonkey.com/2010/02/embed_audio_and_video_in_html_5_pages/)[Vid
-eo on the Web - Dive Into HTML5](http://diveintohtml5.org/video.html)
-
-[](http://diveintohtml5.org/video.html)_Canvas_
-
-[Applications, games, tools and tutorials for the HTML5 canvas element -
-Canvas Demos](http://www.canvasdemos.com/)
-
-[Canvas tutorial - MDC Doc
-Center](https://developer.mozilla.org/en/canvas_tutorial)
-
-[Let’s Call It a Draw(ing Surface) - Dive Into
-HTML5](http://diveintohtml5.org/canvas.html#divingin)
-
-_Drag and Drop_
-
-[HTML5 drag and drop in Firefox 3.5 – 0xDECAFBAD
-
-](http://decafbad.com/blog/2009/07/15/html5-drag-and-drop)[Native Drag and
-Drop | HTML5 Doctor](http://html5doctor.com/native-drag-and-drop/)
-
-_**Forms**_
-
-[Banish JavaScript in Web Forms with HTML5](http://www.elated.com/articles
-/banish-javascript-in-web-forms-with-html5/)
-
-[HTML5 and Even Fancier
-Forms](http://articles.sitepoint.com/article/html5-forms)
-
-[HTML5 Web Form With (almost!) No JavaScript in Sight |
-Elated.com](http://www.elated.com/res/File/articles/authoring/html/html-forms
-/banish-javascript-in-web-forms-with-html5/)
-
-_ _
-
-**_GeoLocation_**
-
-[Creating mobile Web applications with HTML 5, Part 1: Combine HTML 5,
-geolocation APIs, and Web services to create mobile
-mashups](http://www.ibm.com/developerworks/library/x-html5mobile1/index.html)
-
-**_Offline Apps_**
-
-[Create offline Web applications on mobile devices with
-HTML5](http://www.ibm.com/developerworks/web/library/wa-offlineweb/index.html)
-
-[HTML5 Client-side Local Storage](http://www.taranfx.com/html-5-client-
-storage)
-
-[iphone - Html5 cache manifest in a UIWebView? - Stack
-Overflow](http://stackoverflow.com/questions/1540240/html5-cache-manifest-
-in-a-uiwebview)
-
-[Local Storage - Dive Into HTML 5](http://diveintohtml5.org/storage.html)
-
-[Running your web applications offline with HTML5 AppCache - Opera Developer
-Community](http://dev.opera.com/articles/view/offline-applications-
-html5-appcache/)
-
-[Safari Client-Side Storage and Offline Applications Programming Guide: Introd
-uction](http://developer.apple.com/safari/library/documentation/iphone/concept
-ual/safarijsdatabaseguide/introduction/introduction.html)
-
-[](http://javascriptweblog.wordpress.com/2010/06/21/web-workers-vs-the-crazy-
-flies/)
-
-**_Web Workers_**
-
-[web workers vs. the crazy flies | JavaScript, JavaScript
-
-](http://javascriptweblog.wordpress.com/2010/06/21/web-workers-vs-the-crazy-
-flies/)
-
-_WebGL_
-
-[Lesson 0: Getting started with WebGL | Learning WebGL
-
-](http://learningwebgl.com/blog/?p=11)[WebGL examples
-
-](http://www.ibiblio.org/e-notes/webgl/webgl.htm)[webglsamples - Project
-Hosting on Google Code
-
-](http://code.google.com/p/webglsamples/)
-
-_WebSockets_
-
-[HTML5 Web Sockets: A Quantum Leap in Scalability for the Web | SOA World
-Magazine
-
-](http://soa.sys-con.com/node/1315473)[Introducing Smoothie Charts « Joe
-Walnes
-
-](http://joewalnes.com/2010/08/10/introducing-smoothie-charts/)[Jay Fields'
-Thoughts: Clojure: Web Socket Introduction
-
-](http://blog.jayfields.com/2011/02/clojure-web-socket-
-introduction.html)[joewalnes/webbit - GitHub
-
-](https://github.com/joewalnes/webbit)[Real time online activity monitor
-example with node.js and WebSocket @ Bamboo Blog
-
-](http://blog.new-bamboo.co.uk/2009/12/7/real-time-online-activity-monitor-
-example-with-node-js-and-websocket)[Socket.IO: the cross-browser WebSocket for
-realtime apps.
-
-](http://socket.io/)[Socket.IO: WebSockets for everyone by Guillermo Rauch -
-JSConf.eu ☠ 2010
-
-](http://jsconf.eu/2010/speaker/socketio_websockets_for_everyo.html)[Start
-Using HTML5 WebSockets Today | Nettuts+](http://net.tutsplus.com/tutorials
-/javascript-ajax/start-using-html5-websockets-today/)
-
-# **HTML - Miscellaneous**
-
-[HTML5 Support in Internet Explorer 9
-
-](http://www.impressivewebs.com/html5-support-ie9/)[HTML5 Watch
-
-](http://html5watch.tumblr.com/)[HTML5Trends.com | HTML5 News | HTML5 Views |
-HTML5 Tutorials
-
-](http://www.html5trends.com/)[Monster Review – HTML5 Up and Running « Keep an
-Open Eye Eye, Sir
-
-](http://www.theopensourcery.com/keepopen/?p=2521)[W3C HTML5 Logo
-
-](http://www.w3.org/html/logo/)[WebKitBits · A tumblog about the browser
-engine built into Safari, Chrome, iPhone, and
-Android.](http://www.webkitbits.com/)
 
 # JavaScript - Miscellaneous
 
@@ -437,224 +351,6 @@ and Badder) | face.com
 
 ](http://face.com/blog/new-api-bigger-and-badder/)[Processing.js
 
-](http://processingjs.org/)[ruidlopes/minimal.js - GitHub
+](h)[ruidlopes/minimal.js - GitHub
 
-](https://github.com/ruidlopes/minimal.js)[scripty2: for a more delicious web
-
-](http://scripty2.com/)[Sencha - Sencha Touch Overview - Mobile Web App
-Development for Android & iPhone | Sencha Touch | Products | Sencha
-
-](http://www.sencha.com/products/touch/)[Treesaver.js
-
-](http://treesaverjs.com/)[Wink Toolkit
-
-](http://www.winktoolkit.org/)[YUI Library Examples: Drag & Drop: Portal Style
-Example](http://developer.yahoo.com/yui/3/examples/dd/portal-drag.html)
-
-# Reference Books & Articles
-
-[28 HTML5 Features, Tips, and Techniques you Must Know | Nettuts+
-
-](http://net.tutsplus.com/tutorials/html-css-techniques/25-html5-features-
-tips-and-techniques-you-must-know/)[30+ Very Useful HTML5 Tutorials,
-Techniques and Examples for Web Developers — tripwire magazine
-
-](http://www.tripwiremagazine.com/2010/07/30-very-useful-html5-tutorials-
-techniques-and-examples-for-web-developers.html)[6 Great Resources for HTML5
-Mobile Web App Development « AppGym
-
-](http://appgym.wordpress.com/2010/07/12/6-great-resources-for-html5-mobile-
-web-app-development/)[A Book Apart, Welcome
-
-](http://books.alistapart.com/)[Bill Higgins' Blog : Ajax code loading
-optimization techniques
-
-](http://billhiggins.us/blog/2010/10/26/ajax-code-loading-optimization-
-techniques/)[Building Web Pages With HTML 5 | Webmonkey | Wired.com
-
-](http://www.webmonkey.com/2010/02/building_web_pages_with_html_5/)[Designing
-a blog with html5 | HTML5 Doctor
-
-](http://html5doctor.com/designing-a-blog-with-html5/)[Dive Into HTML5
-
-](http://diveintohtml5.org/)[Google JavaScript Style Guide
-
-](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)[How
-to Make a Generic Javascript Method Closure | chrisspenblog
-
-](http://www.chrisspen.com/blog/how-to-make-a-generic-javascript-method-
-closure.html)[HTML 5 Tag Reference
-
-](http://www.w3schools.com/html5/html5_reference.asp)[HTML5 Boilerplates |
-HTML5 Doctor
-
-](http://html5doctor.com/html-5-boilerplates/)[html5 laboratory - writing a
-valid html5 document
-
-](http://www.html5laboratory.com/writing-a-valid-html5-document.php)[HTML5
-Playground
-
-](http://playground.html5rocks.com/#semantic_markup)[HTML5 Readiness
-
-](http://html5readiness.com/)[HTML5 Rocks - A resource for open web HTML5
-developers
-
-](http://www.html5rocks.com/)[HTML5 Tutorial – Getting Started
-
-](http://www.dave-woods.co.uk/index.php/html5-tutorial-getting-
-started/)[iPhone Safari Dev Stuff -> Tech
-
-](http://www.brainbackup.net/post/iphone-safari-dev-stuff.html)[Javascript
-Closures
-
-](http://jibbering.com/faq/notes/closures/)[Learn HTML5: 10 Must Read Lessons
-
-](http://www.webhostingsecretrevealed.com/featured-articles/learn-html5-10
--must-read-lessons/)[Minimize payload size
-
-](http://code.google.com/speed/page-speed/docs/payload.html)[Mobile Web
-Application Best Practices
-
-](http://www.w3.org/TR/mwabp/)[Periodic Table of the Elements - Josh Duck
-
-](http://joshduck.com/periodic-table.html)[Script Junkie | How to Write
-Maintainable OO JavaScript Code
-
-](http://msdn.microsoft.com/en-us/scriptjunkie/gg602402.aspx)[svendtofte.com -
-Curried JavaScript functions
-
-](http://www.svendtofte.com/code/curried_javascript/)[Yahoo! Design Pattern
-Library](http://developer.yahoo.com/ypatterns/)
-
-# Testing
-
-[alexyoung's riotjs at master - GitHub
-
-](http://github.com/alexyoung/riotjs)[An incomplete overview of webtesting
-tools
-
-](http://jquery.bassistance.de/webtesting/presentation.html#slide1)[Browse
-test cases · jsPerf
-
-](http://jsperf.com/browse)[drnic/jsunittest - GitHub
-
-](https://github.com/drnic/jsunittest)[Fake - Mac OS X Web Browser Automation
-and Webapp Testing Made Simple.
-
-](http://fakeapp.com/)[js-test-driver - Project Hosting on Google Code
-
-](http://code.google.com/p/js-test-driver/)[JSpec - JavaScript Testing
-Framework
-
-](http://visionmedia.github.com/jspec/)[tobie's unittest_js at master - GitHub
-
-](http://github.com/tobie/unittest_js)[void vs undefined ·
-jsPerf](http://jsperf.com/void-vs-undefined/11)
-
-# Tools - Doc Generation
-
-[DailyJS: Let's Make a Framework: Writing
-Documentation](http://dailyjs.com/2011/01/13/framework-part-46/)
-
-[docco.coffee](http://jashkenas.github.com/docco/)
-
-[Google JavaScript Style Guide](http://google-
-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#Comments)
-
-[JSDoc Homepage - JavaScript Documentation
-Tool](http://jsdoc.sourceforge.net/)
-
-[PDoc](http://pdoc.org/)
-
-# Tools - IDEs
-
-[Aptana | Download Aptana Studio
-3.0.0](http://www.aptana.com/products/studio3/download)
-
-[Cloud9 IDE - Ajax.org](http://www.cloud9ide.com/)
-
-[Create a new Fiddle - jsFiddle - Online Editor for the Web (JavaScript,
-MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML,
-CSS)](http://jsfiddle.net/)** **
-
-# Tools - Message Bus
-
-[kwhinnery/appcelerator_mq -
-GitHub](https://github.com/kwhinnery/appcelerator_mq)
-
-[TIBCO PageBus Developer Center at TIBCO Developer
-Network](http://developer.tibco.com/pagebus/)** **
-
-# Tools - Performance
-
-[Axod's Hack: Google Closure Compiler Advanced
-mode](http://axod.blogspot.com/2010/01/google-closure-compiler-advanced-
-mode.html)
-
-[Benchmark.js](http://benchmarkjs.com/)
-
-[Closure Compiler - Google Code](http://code.google.com/closure/compiler/)
-
-[codenothing's css-compressor at master -
-GitHub](https://github.com/codenothing/css-compressor)
-
-[CSS Compressor - Online code compressor for Cascading Style
-Sheets](http://www.csscompressor.com/)
-
-[CSSTidy](http://csstidy.sourceforge.net/)
-
-[JavaScript dependency management and concatenation:
-Sprockets](http://getsprockets.org/)
-
-[mir.aculo.us JavaScript with Thomas Fuchs » DOM Monster
-Bookmarklet](http://mir.aculo.us/dom-monster/)
-
-[YUI Compressor](http://developer.yahoo.com/yui/compressor/)
-
-# User Interface/UX
-
-[Best Examples Designs for Mobile Web Interfaces |
-DesignModo](http://designmodo.com/best-examples-designs-for-mobile-web-
-interfaces/)
-
-[Creating Fast Buttons for Mobile Web Applications - Google Mobile Developer
-Products - Google
-Code](http://code.google.com/mobile/articles/fast_buttons.html)
-
-[FingerTips](http://developer.apple.com/library/safari/#samplecode/FingerTips/
-Introduction/Intro.html#//apple_ref/doc/uid/DTS40008124)
-
-[Not a mobile web, merely a 320px-wide one « James
-Pearce](http://tripleodeon.com/2010/10/not-a-mobile-web-merely-a-320px-wide-
-one/)
-
-[tinySrc](http://tinysrc.net/)
-
-[User Experience Coding How-To's for Safari on iPhone](http://developer.apple.
-com/safari/library/codinghowtos/Mobile/UserExperience/index.html)
-
-# Wapps
-
-[Fingertips/ios-sim - GitHub](https://github.com/Fingertips/ios-sim)
-
-[Hiding Safari User Interface Components on iPhone - Stack
-Overflow](http://stackoverflow.com/questions/273671/hiding-safari-user-
-interface-components-on-iphone)
-
-[How to Make an HTML5 iPhone App](http://sixrevisions.com/web-
-development/html5-iphone-app/)
-
-# Wrapper Apps
-
-[Assorted GARbage» Blog Archive » Adding a Splash Screen for Android using
-Phonegap](http://blog.assortedgarbage.com/2011/02/adding-a-splash-screen-for-
-android-using-phonegap/)
-
-[NimbleKit - Smart kit for fast iPhone apps
-development](http://www.nimblekit.com/)
-
-[PhoneGap](http://www.phonegap.com/)
-
-[Use Appcelerator Titanium to build mobile apps for iPhone & Android and
-desktop apps for Windows, Mac OS X & Linux from Web
-technologies](http://www.appcelerator.com/)
+]
