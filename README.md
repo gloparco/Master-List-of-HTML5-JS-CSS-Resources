@@ -16,10 +16,7 @@ Please feel free to contribute - the more the merrier!
 * **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
 
 ### [Tools for Design](#designTools)
-* **[Interactive Mockups](#mockups)**
-* **[Graphics & Image Editors](#graphicsEditors)**
-* **[Vector Graphics Editors](#vectorEditors)**
-* **[Animation](#animation)**
+* [Interactive Mockups](#mockups) ・ [Graphics & Image Editors](#graphicsEditors) ・ [Vector Graphics Editors](#vectorEditors) ・ [Animation](#animation)
 
 ### [Tools for Development](#developerTools)
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
