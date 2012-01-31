@@ -275,3 +275,6 @@ Please feel free to contribute - the more the merrier!
 * [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
+
+## Sublime Text 2 Tips
+* [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
