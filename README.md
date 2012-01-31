@@ -22,11 +22,10 @@ Please feel free to contribute - the more the merrier!
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl)
 
 ### [Techniques](#techniques)
-* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
-* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
-* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
+* [CSS](#cssTechniques) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Sublime Text Tips](#sublimeTips)
 
 ---
+
 <a name="technologies"/>
 # Technologies
 
@@ -199,6 +198,7 @@ Please feel free to contribute - the more the merrier!
 * [normalize.css](https://github.com/necolas/normalize.css/)
 
 ---
+
 <a name="designTools"/>
 # Tools for Design
 
@@ -268,7 +268,7 @@ Please feel free to contribute - the more the merrier!
 * [jslint](http://www.jslint.com/)
 * [JSHint](http://www.jshint.com/)
 
-<a name="build"/>
+<a name="buildTools"/>
 ### Build Tools & Compressors
 * [Google Closure Compiler](http://code.google.com/closure/compiler/)
 * [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
@@ -327,23 +327,28 @@ Please feel free to contribute - the more the merrier!
 * [Gitbox](http://www.gitboxapp.com/)
 
 ---
+
 <a name="techniques"/>
 # Techniques
 
+<a name="cssTechniques"/>
 ## CSS
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
 
+<a name="jsBlogs"/>
 ## JavaScript Blogs & Showcases
 * [CreativeJS](http://creativejs.com/)
 * [Seb Lee-Delisle](http://sebleedelisle.com/)
 * [o2.js](http://o2js.com/)
 
+<a name="jsPatterns"/>
 ## JavaScript Patterns
 * [JavaScript Module Pattern](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
 * [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
 
+<a name="sublimeTips"/>
 ## Sublime Text 2 Tips
 * [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
