@@ -83,6 +83,7 @@ Please feel free to contribute - the more the merrier!
 * [LABjs](http://labjs.com/)
 * [Underscore.js](http://underscorejs.org/)
 * [chainvas](http://leaverou.github.com/chainvas/)
+* [Lightning.js](http://lightningjs.com/)
 
 ### Charting
 * [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
@@ -128,6 +129,7 @@ Please feel free to contribute - the more the merrier!
 ### Books & Reference
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/)
+* [JavaScripture](http://www.javascripture.com/)
 * [wtfjs](http://wtfjs.com/)
 
 ## CSS3
@@ -191,6 +193,9 @@ Please feel free to contribute - the more the merrier!
 ### Code Editors: Windows Only
 * [TextPad](http://www.textpad.com/)
 
+### CSS Editors
+* [bluePen](http://www.bluepeneditor.com/)
+
 ### Integrated Development Environments (IDE)
 * [WebStorm](http://www.jetbrains.com/webstorm/)
 * [NetBeans](http://netbeans.org/)
@@ -252,7 +257,21 @@ Please feel free to contribute - the more the merrier!
 * [Git Reference](http://gitref.org/)
 * [Gitbox](http://www.gitboxapp.com/)
 
-
 ---
 
 # Techniques
+
+## CSS
+* [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
+* [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
+
+## JavaScript Blogs & Showcases
+* [CreativeJS](http://creativejs.com/)
+* [Seb Lee-Delisle](http://sebleedelisle.com/)
+* [o2.js](http://o2js.com/)
+
+## JavaScript Patterns
+* [JavaScript Module Pattern](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
+* [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
+* [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
