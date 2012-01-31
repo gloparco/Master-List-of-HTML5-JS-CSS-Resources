@@ -19,8 +19,8 @@ Please feel free to contribute - the more the merrier!
 ## Interactive Mockups
 
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
-	[Keynote Kung-Fu](http://keynotekungfu.com/)
-	[Keynotopia](http://keynotopia.com/)
+* [Keynote Kung-Fu](http://keynotekungfu.com/)
+* [Keynotopia](http://keynotopia.com/)
 
 ## Graphics & Image Editors
 
@@ -39,16 +39,16 @@ Please feel free to contribute - the more the merrier!
 
 ## Code Editors
 
-Cross Platform
+### Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
 
-Mac Only
+### Mac Only
 * [TextMate](http://macromates.com/)
 * [MacVim](http://code.google.com/p/macvim/)
 * [BBEdit](http://www.barebones.com/products/bbedit/index.html?utm_source=thedeck&utm_medium=banner&utm_campaign=bbedit)
 * [TextWrangler](http://www.barebones.com/products/textwrangler/)
 
-Windows Only
+### Windows Only
 * [TextPad](http://www.textpad.com/)
 
 ## Integrated Development Environments (IDE)
