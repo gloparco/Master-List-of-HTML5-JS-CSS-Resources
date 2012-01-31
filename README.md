@@ -11,6 +11,8 @@ Please feel free to contribute - the more the merrier!
 # Table of Contents
 
 * [Technologies](#technologies)
+	* [HTML5](#html5): [Books & Reference](#html5-books), [Performance](#html5-performance), [Templates](#html5-templates), [eBook Frameworks](#html5-ebooks)
+	* [JavaScript](#javascript): [Frameworks](#js-frameworks), [Mobile Frameworks w/Widgets](#js-mobileWithWidgets), [Mobile Frameworks w/o Widgets](js-mobile), [MVC Frameworks](js-mvc), [Template Libraries](js-templating), [Various Useful Libs](js-misc)
 * [Tools for Design](#designTools)
 * [Tools for Development](#developerTools)
 * [Techniques](#techniques)
@@ -18,9 +20,9 @@ Please feel free to contribute - the more the merrier!
 ---
 <a name="technologies"/>
 # Technologies
-
+<a name="html5"/>
 ## HTML5
-
+<a name="html5-books"/>
 ### Books & Reference
 * [Dive Into HTML5](http://diveintohtml5.info/)
 * [HTML5 Rocks](http://www.html5rocks.com)
@@ -33,22 +35,22 @@ Please feel free to contribute - the more the merrier!
 * [W3C HTML5 Specification](http://www.w3.org/TR/html5/)
 * [WHATWG HTML Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
 * [A Web Developer's Guide to HTML5](http://dev.w3.org/html5/html-author/)
-
+<a name="html5-performance"/>
 ### Performance
 * [Page Speed](http://code.google.com/speed/page-speed/)
-
+<a name="html5-templates"/>
 ### Templates
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Mobile Boilerplate](http://html5boilerplate.com/mobile)
 * [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/)
-
+<a name="html5-ebooks"/>
 ### eBook Frameworks
 * [Pugpig](http://pugpig.com/)
 * [Baker](http://bakerframework.com/)
 * [Laker compendium](http://www.lakercompendium.com/)
-
+<a name="javascript"/>
 ## JavaScript
-
+<a name="js-frameworks"/>
 ### General Purpose Frameworks
 * [jQuery](http://jquery.com/)
 * [YUI](http://developer.yahoo.com/yui/)
@@ -58,19 +60,19 @@ Please feel free to contribute - the more the merrier!
 * [MooTools](http://mootools.net/)
 * [qooxdoo](http://qooxdoo.org/)
 * [Enyo](http://enyojs.com/)
-
+<a name="js-mobileWithWidgets"/>
 ### Mobile Frameworks with Widgets
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Dojo Mobile](http://dojotoolkit.org/features/mobile)
 * [Sencha Touch](http://www.sencha.com/products/touch)
 * [Wink toolkit](http://www.winktoolkit.org/)
-
+<a name="js-mobile"/>
 ### Mobile Frameworks without Widgets
 * [zepto.js](http://zeptojs.com/)
 * [xui.js](http://xuijs.com/)
 * [RightJS](http://rightjs.org/)
 * [EmbedJS](http://uxebu.github.com/embedjs/)
-
+<a name="js-mvc"/>
 ### MVC Frameworks
 * [Ember.js](http://emberjs.com/)
 * [Backbone.js](http://documentcloud.github.com/backbone/)
@@ -79,12 +81,12 @@ Please feel free to contribute - the more the merrier!
 * [AngularJS](http://angularjs.org)
 * [batman.js](http://batmanjs.org/)
 * [Spine](http://spinejs.com/)
-
+<a name="js-templating"/>
 ### Template Libraries
 * [mustache.js](https://github.com/janl/mustache.js)
 * [ICanHaz.js](http://icanhazjs.com/)
 * [minimal.js](https://github.com/ruidlopes/minimal.js)
-
+<a name="js-misc"/>
 ### Various Useful Libraries
 * [Modernizr](http://www.modernizr.com/)
 * [yepnope.js](http://yepnopejs.com/)
@@ -93,7 +95,7 @@ Please feel free to contribute - the more the merrier!
 * [Underscore.js](http://underscorejs.org/)
 * [chainvas](http://leaverou.github.com/chainvas/)
 * [Lightning.js](http://lightningjs.com/)
-
+<a name="js-charting"/>
 ### Charting
 * [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
 * [Google Chart Tools / Image Charts (aka Chart API) - Google Code](http://code.google.com/apis/chart/)
