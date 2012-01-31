@@ -33,6 +33,11 @@ Please feel free to contribute - the more the merrier!
 * [Mobile Boilerplate](http://html5boilerplate.com/mobile)
 * [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/)
 
+### eBook Frameworks
+* [Pugpig](http://pugpig.com/)
+* [Baker](http://bakerframework.com/)
+* [Laker compendium](http://www.lakercompendium.com/)
+
 ## JavaScript
 
 ### General Purpose Frameworks
@@ -43,6 +48,7 @@ Please feel free to contribute - the more the merrier!
 * [Ext JS](http://www.sencha.com/products/extjs/)
 * [MooTools](http://mootools.net/)
 * [qooxdoo](http://qooxdoo.org/)
+* [Enyo](http://enyojs.com/)
 
 ### Mobile Frameworks with Widgets
 * [jQuery Mobile](http://jquerymobile.com/)
@@ -76,6 +82,7 @@ Please feel free to contribute - the more the merrier!
 * [RequireJS](http://requirejs.org/)
 * [LABjs](http://labjs.com/)
 * [Underscore.js](http://underscorejs.org/)
+* [chainvas](http://leaverou.github.com/chainvas/)
 
 ### Charting
 * [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
@@ -92,14 +99,31 @@ Please feel free to contribute - the more the merrier!
 * [Processing.js](http://processingjs.org/)
 * [Isotope](http://isotope.metafizzy.co/)
 
-### Messaging
+### Client-side Messaging
 * [TIBCO PageBus](http://developer.tibco.com/pagebus/)
+
+### Services & Push Messaging
+* [StackMob](http://stackmob.com/)
+* [PubNub](http://www.pubnub.com/)
+* [Urban Airship](http://urbanairship.com/)
+* [appMobi Cloud Services](http://www.appmobi.com/?q=node/137)
 
 ### Server-side JavaScript
 * [node.js](http://nodejs.org/)
 * [Express](http://expressjs.com/)
 * [(fab)](https://github.com/jed/fab)
 * [Restler](https://github.com/danwrong/restler)
+
+### Game Engines
+* [Impact](http://impactjs.com/)
+* [EaselJS](http://easeljs.com/)
+* [LimeJS](http://www.limejs.com/)
+* [Crafty](http://craftyjs.com/)
+* [DirectCanvas](https://github.com/appMobi/ios)
+
+### Game Audio
+* [SoundJS](http://soundjs.com/)
+* [SoundManager](http://www.schillmania.com/projects/soundmanager2/)
 
 ### Books & Reference
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
@@ -145,6 +169,11 @@ Please feel free to contribute - the more the merrier!
 * [Inkscape](http://inkscape.org/)
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Corel Draw](http://www.corel.com/corel/category.jsp?rootCat=cat20146&cat=cat3430091)
+
+### Animation
+* [Tumult Hype](http://tumultco.com/hype/)
+* [Adobe Edge](http://labs.adobe.com/technologies/edge/)
+* [Sencha Animator](http://www.sencha.com/products/animator/)
 
 ---
 
@@ -200,6 +229,7 @@ Please feel free to contribute - the more the merrier!
 * [Zombie.js](http://zombie.labnotes.org/)
 * [js-test-driver](http://code.google.com/p/js-test-driver/)
 * [Tutti](http://tuttijs.com/)
+* [Remote-Tilt](http://remote-tilt.com/)
 
 ### Emulators
 * [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
@@ -217,6 +247,11 @@ Please feel free to contribute - the more the merrier!
 * [appMobi](http://www.appmobi.com/)
 * [NimbleKit](http://www.nimblekit.com/)
 * [TestFlight](https://testflightapp.com/)
+
+### Version Control
+* [Git Reference](http://gitref.org/)
+* [Gitbox](http://www.gitboxapp.com/)
+
 
 ---
 
