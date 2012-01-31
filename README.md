@@ -164,7 +164,8 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<h1 id="designTools">Tools for Design</h1>
+<!---<h1 id="designTools">Tools for Design</h1>-->
+<h2 id="designTools">Tools for Design</h2>
 
 ### Interactive Mockups
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
