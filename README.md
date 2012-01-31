@@ -1,6 +1,73 @@
-Following is a list of HTML5, JavaScript, and CSS resources that I find very useful. I thought others might like a one stop place for such information as well. I will be continually updating this list, so that it that stays relevant.  Feel free to add to this list yourself!
+This list started out as a [blog post](http://blog.elemdage.com/technology/master-list-of-html5jsscss-resources), with the intent of sharing a list of HTML5, JavaScript, and CSS3 resources that I found very useful.  Feel free to read the [original article](http://blog.elemdage.com/technology/master-list-of-html5jsscss-resources) to see what links I deemed relevent in January of 2011.
 
-### Charting
+The following is a revised, hopefully continually updated, list of technologies, techniques, and tools that have been cultivated with experienced and aspiring front end developers and designers in mind.
+
+Please feel free to contribute - the more the merrier!
+
+# Technologies
+
+## HTML5
+
+## JavaScript
+
+## CSS3
+
+---
+
+# Tools for Design
+
+## Interactive Mockups
+
+* [Keynote](http://www.apple.com/iwork/keynote/) with templates:
+	[Keynote Kung-Fu](http://keynotekungfu.com/)
+	[Keynotopia](http://keynotopia.com/)
+
+## Graphics & Image Editors
+
+* [Pixelmator](http://www.pixelmator.com/)
+* [Adobe Photoshop](http://success.adobe.com/en/na/sem/products/photoshop.html)
+
+## Vector Graphics Editors
+
+* [Inkscape](http://inkscape.org/)
+* [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
+* [Corel Draw](http://www.corel.com/corel/category.jsp?rootCat=cat20146&cat=cat3430091)
+
+---
+
+# Tools for Development
+
+## Code Editors
+
+Cross Platform
+* [Sublime Text 2](http://www.sublimetext.com/2)
+
+Mac Only
+* [TextMate](http://macromates.com/)
+* [MacVim](http://code.google.com/p/macvim/)
+* [BBEdit](http://www.barebones.com/products/bbedit/index.html?utm_source=thedeck&utm_medium=banner&utm_campaign=bbedit)
+* [TextWrangler](http://www.barebones.com/products/textwrangler/)
+
+Windows Only
+* [TextPad](http://www.textpad.com/)
+
+## Integrated Development Environments (IDE)
+
+* [WebStorm](http://www.jetbrains.com/webstorm/)
+* [NetBeans](http://netbeans.org/)
+* [Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
+* [Aptana Studio](http://www.adobe.com/products/dreamweaver.html)
+* [Coda](http://panic.com/coda/)
+* [Espresso](http://macrabbit.com/espresso/)
+
+---
+
+# Techniques
+
+
+
+
+# Charting
 
 [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
 
@@ -24,7 +91,7 @@ tag](http://www.rgraph.net/)
 [ZingChart + Build HTML5 and Flash Charts & Graphs for Web
 Applications](http://www.zingchart.com/)
 
-### CSS3
+# CSS3
 
 [A CSS-based Form Template](http://nidahas.com/sandbox/form_template.html)
 
@@ -65,7 +132,7 @@ Blog](http://blog.typekit.com/2011/02/10/type-study-an-all-css-button/)
 [What Beautiful HTML Code Looks Like | CSS-Tricks](http://css-tricks.com/what-
 beautiful-html-code-looks-like/)
 
-### Frameworks
+# Frameworks
 
 [An Intro to Backbone.js: Part 1 – Models and Collections - Liquid
 Media](http://liquidmedia.ca/blog/2011/01/backbone-js-
@@ -104,22 +171,17 @@ Frameworks](http://jqueryvsmootools.com/)
 
 [Sample Controls](http://demo.sproutcore.com/sample_controls/)
 
-[script for playing with greenhouse on a demo app - SproutCore | Google Groups
-](http://groups.google.com/group/sproutcore/browse_thread/thread/3002db6e245bf
-882/0466aaf0e47b6596?lnk=gst&q=greenhouse#0466aaf0e47b6596)
+[script for playing with greenhouse on a demo app - SproutCore | Google Groups](http://groups.google.com/group/sproutcore/browse_thread/thread/3002db6e245bf882/0466aaf0e47b6596?lnk=gst&q=greenhouse#0466aaf0e47b6596)
 
-[Slideshare Mobile](http://www.slideshare.net/mobile/rmurphey/the-jquery-
-divide-5287573)
+[Slideshare Mobile](http://www.slideshare.net/mobile/rmurphey/the-jquery-divide-5287573)
 
 [SproutCore - Demos & Sample Code](http://www.sproutcore.com/demos/)
 
-[SproutCore Documentation / DataStore About](http://wiki.sproutcore.com
-/DataStore-About)
+[SproutCore Documentation / DataStore About](http://wiki.sproutcore.com/DataStore-About)
 
 [todos.js](http://documentcloud.github.com/backbone/docs/todos.html)
 
-[Tutorials:How jQuery Works - jQuery JavaScript
-Library](http://docs.jquery.com/How_jQuery_Works)
+[Tutorials:How jQuery Works - jQuery JavaScript Library](http://docs.jquery.com/How_jQuery_Works)
 
 [Underscore.js](http://documentcloud.github.com/underscore/)
 
@@ -127,30 +189,24 @@ Library](http://docs.jquery.com/How_jQuery_Works)
 
 [YUI3 vs jQuery](http://dsheiko.com/weblog/yui3-vs-jquery)
 
-### Frameworks - MicroFrameworks
+# Frameworks - MicroFrameworks
 
-[baseJS: A Mobile JavaScript Framework : Weblog : Paul Armstrong
-Designs](http://paularmstrongdesigns.com/weblog/basejs-a-mobile-javascript-
+[baseJS: A Mobile JavaScript Framework : Weblog : Paul Armstrong Designs](http://paularmstrongdesigns.com/weblog/basejs-a-mobile-javascript-
 framework/)
 
-[Explaining EmbedJS « Uxebu.com – the Ajax and JavaScript
-Experts](http://uxebu.com/blog/2011/01/31/explaining-embedjs/)
+[Explaining EmbedJS « Uxebu.com – the Ajax and JavaScript Experts](http://uxebu.com/blog/2011/01/31/explaining-embedjs/)
 
-[Hacker News | My question is if zepto.js is only 2k then why is jQuery 26k?
-What features are…](http://news.ycombinator.com/item?id=1843679)
+[Hacker News | My question is if zepto.js is only 2k then why is jQuery 26k? What features are…](http://news.ycombinator.com/item?id=1843679)
 
 [XUI | javascript micro-framework](http://xuijs.com/)
 
-[zepto.js — the aerogel-weight mobile javascript
-framework](http://zeptojs.com/)
+[zepto.js — the aerogel-weight mobile javascript framework](http://zeptojs.com/)
 
-### HTML Features
+# HTML Features
 
-_**Audio & Video**_
+## Audio & Video
 
-[4.8.6 The video element — HTML5
-
-](http://www.w3.org/TR/html5/video.html)[Embed Audio and Video in HTML 5 Pages
+[4.8.6 The video element — HTML5](http://www.w3.org/TR/html5/video.html)[Embed Audio and Video in HTML 5 Pages
 | Webmonkey | Wired.com
 
 ](http://www.webmonkey.com/2010/02/embed_audio_and_video_in_html_5_pages/)[Vid
@@ -265,7 +321,7 @@ JSConf.eu ☠ 2010
 Using HTML5 WebSockets Today | Nettuts+](http://net.tutsplus.com/tutorials
 /javascript-ajax/start-using-html5-websockets-today/)
 
-### **HTML - Miscellaneous**
+# **HTML - Miscellaneous**
 
 [HTML5 Support in Internet Explorer 9
 
@@ -283,7 +339,7 @@ Open Eye Eye, Sir
 engine built into Safari, Chrome, iPhone, and
 Android.](http://www.webkitbits.com/)
 
-### JavaScript - Miscellaneous
+# JavaScript - Miscellaneous
 
 [Badass JavaScript - Has.js: UA Sniffing Is Dead. Long Live JavaScript Feature
 Detection!
@@ -329,7 +385,7 @@ _Multiple_Browser_Interactive_Javascript_Shell)[wtfjs
 ](http://wtfjs.com/)[yepnope.js | A Conditional Loader For Your
 Polyfills!](http://yepnopejs.com/)
 
-### JavaScript - Server Side
+# JavaScript - Server Side
 
 [creationix/adventure - GitHub
 
@@ -346,7 +402,7 @@ Polyfills!](http://yepnopejs.com/)
 ](http://nodeknockout.com/)[wadey/node-microtime -
 GitHub](https://github.com/wadey/node-microtime)
 
-### JavaScript - UI Libraries
+# JavaScript - UI Libraries
 
 [Accordion v2.0 Demo
 
@@ -388,7 +444,7 @@ Development for Android & iPhone | Sencha Touch | Products | Sencha
 ](http://www.winktoolkit.org/)[YUI Library Examples: Drag & Drop: Portal Style
 Example](http://developer.yahoo.com/yui/3/examples/dd/portal-drag.html)
 
-### Reference Books & Articles
+# Reference Books & Articles
 
 [28 HTML5 Features, Tips, and Techniques you Must Know | Nettuts+
 
@@ -463,7 +519,7 @@ Curried JavaScript functions
 ](http://www.svendtofte.com/code/curried_javascript/)[Yahoo! Design Pattern
 Library](http://developer.yahoo.com/ypatterns/)
 
-### Testing
+# Testing
 
 [alexyoung's riotjs at master - GitHub
 
@@ -488,7 +544,7 @@ Framework
 ](http://github.com/tobie/unittest_js)[void vs undefined ·
 jsPerf](http://jsperf.com/void-vs-undefined/11)
 
-### Tools - Doc Generation
+# Tools - Doc Generation
 
 [DailyJS: Let's Make a Framework: Writing
 Documentation](http://dailyjs.com/2011/01/13/framework-part-46/)
@@ -503,7 +559,7 @@ Tool](http://jsdoc.sourceforge.net/)
 
 [PDoc](http://pdoc.org/)
 
-### Tools - IDEs
+# Tools - IDEs
 
 [Aptana | Download Aptana Studio
 3.0.0](http://www.aptana.com/products/studio3/download)
@@ -514,7 +570,7 @@ Tool](http://jsdoc.sourceforge.net/)
 MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML,
 CSS)](http://jsfiddle.net/)** **
 
-### Tools - Message Bus
+# Tools - Message Bus
 
 [kwhinnery/appcelerator_mq -
 GitHub](https://github.com/kwhinnery/appcelerator_mq)
@@ -522,7 +578,7 @@ GitHub](https://github.com/kwhinnery/appcelerator_mq)
 [TIBCO PageBus Developer Center at TIBCO Developer
 Network](http://developer.tibco.com/pagebus/)** **
 
-### Tools - Performance
+# Tools - Performance
 
 [Axod's Hack: Google Closure Compiler Advanced
 mode](http://axod.blogspot.com/2010/01/google-closure-compiler-advanced-
@@ -548,7 +604,7 @@ Bookmarklet](http://mir.aculo.us/dom-monster/)
 
 [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 
-### User Interface/UX
+# User Interface/UX
 
 [Best Examples Designs for Mobile Web Interfaces |
 DesignModo](http://designmodo.com/best-examples-designs-for-mobile-web-
@@ -570,7 +626,7 @@ one/)
 [User Experience Coding How-To's for Safari on iPhone](http://developer.apple.
 com/safari/library/codinghowtos/Mobile/UserExperience/index.html)
 
-### Wapps
+# Wapps
 
 [Fingertips/ios-sim - GitHub](https://github.com/Fingertips/ios-sim)
 
@@ -581,7 +637,7 @@ interface-components-on-iphone)
 [How to Make an HTML5 iPhone App](http://sixrevisions.com/web-
 development/html5-iphone-app/)
 
-### Wrapper Apps
+# Wrapper Apps
 
 [Assorted GARbage» Blog Archive » Adding a Splash Screen for Android using
 Phonegap](http://blog.assortedgarbage.com/2011/02/adding-a-splash-screen-for-
