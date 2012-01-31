@@ -17,9 +17,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<div id="technologies">
 # Technologies
-</div>
 
 ## HTML5
 
@@ -165,6 +163,10 @@ Please feel free to contribute - the more the merrier!
 * [normalize.css](https://github.com/necolas/normalize.css/)
 
 ---
+
+<div id="designTools">
+test
+</div>
 
 # Tools for Design
 
