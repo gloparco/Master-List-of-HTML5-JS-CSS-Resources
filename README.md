@@ -131,17 +131,17 @@ Please feel free to contribute - the more the merrier!
 
 # Tools for Design
 
-## Interactive Mockups
+### Interactive Mockups
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
 * [Keynote Kung-Fu](http://keynotekungfu.com/)
 * [Keynotopia](http://keynotopia.com/)
 
-## Graphics & Image Editors
+### Graphics & Image Editors
 * [Pixelmator](http://www.pixelmator.com/)
 * [Adobe Photoshop](http://success.adobe.com/en/na/sem/products/photoshop.html)
 * [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
 
-## Vector Graphics Editors
+### Vector Graphics Editors
 * [Inkscape](http://inkscape.org/)
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Corel Draw](http://www.corel.com/corel/category.jsp?rootCat=cat20146&cat=cat3430091)
@@ -150,21 +150,19 @@ Please feel free to contribute - the more the merrier!
 
 # Tools for Development
 
-## Code Editors
-
-### Cross Platform
+### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
 
-### Mac Only
+### Code Editors: Mac Only
 * [TextMate](http://macromates.com/)
 * [MacVim](http://code.google.com/p/macvim/)
 * [BBEdit](http://www.barebones.com/products/bbedit/index.html?utm_source=thedeck&utm_medium=banner&utm_campaign=bbedit)
 * [TextWrangler](http://www.barebones.com/products/textwrangler/)
 
-### Windows Only
+### Code Editors: Windows Only
 * [TextPad](http://www.textpad.com/)
 
-## Integrated Development Environments (IDE)
+### Integrated Development Environments (IDE)
 * [WebStorm](http://www.jetbrains.com/webstorm/)
 * [NetBeans](http://netbeans.org/)
 * [Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
@@ -172,30 +170,30 @@ Please feel free to contribute - the more the merrier!
 * [Coda](http://panic.com/coda/)
 * [Espresso](http://macrabbit.com/espresso/)
 
-## Code Quality
+### Code Quality
 * [jslint](http://www.jslint.com/)
 * [JSHint](http://www.jshint.com/)
 
-## Build Tools & Compressors
+### Build Tools & Compressors
 * [Google Closure Compiler](http://code.google.com/closure/compiler/)
 * [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 * [CodeKit](http://incident57.com/codekit/)
 * [SimpLESS](http://wearekiss.com/simpless)
 * [ProCSSor](http://procssorapp.com/)
 
-## Performance
+### Performance
 * [Benchmark.js](http://benchmarkjs.com/)
 * [jsPerf](http://jsperf.com/)
 
-## Code Sharing
+### Code Sharing
 * [jsFiddle](http://jsfiddle.net)
 
-## Debugging
+### Debugging
 * [weinre](http://phonegap.github.com/weinre/)
 * [Resize](http://resizeSafari.com/)
 * [resizeMyBrowser](http://resizeMyBrowser.com/)
 
-## Testing
+### Testing
 * [testling](http://www.testling.com/)
 * [Unit Test](https://gist.github.com/976405)
 * [YUI Test](http://developer.yahoo.com/yui/yuitest/)
@@ -203,17 +201,17 @@ Please feel free to contribute - the more the merrier!
 * [js-test-driver](http://code.google.com/p/js-test-driver/)
 * [Tutti](http://tuttijs.com/)
 
-## Emulators
+### Emulators
 * [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
 * [Adobe Device Central](http://www.adobe.com/products/devicecentral.html)
 
-## Documentation Generators
+### Documentation Generators
 * [JSDoc2](http://code.google.com/p/jsdoc-toolkit/)
 * [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
 * [PDoc](http://pdoc.org/)
 * [docco](http://jashkenas.github.com/docco/)
 
-## Mobile Deployment
+### Mobile Deployment
 * [PhoneGap](http://phonegap.com/)
 * [Titanium](http://www.appcelerator.com/products/titanium-cross-platform-application-development/)
 * [appMobi](http://www.appmobi.com/)
