@@ -17,8 +17,9 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<div id="technologies"></div>
+<div id="technologies">
 # Technologies
+</div>
 
 ## HTML5
 
