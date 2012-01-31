@@ -10,7 +10,34 @@ Please feel free to contribute - the more the merrier!
 
 ## JavaScript
 
+### MVC Frameworks
+
+* [Ember.js](http://emberjs.com/)
+* [Backbone.js](http://documentcloud.github.com/backbone/)
+* [Knockout](http://knockoutjs.com/)
+* [JavaScriptMVC](http://javascriptmvc.com/)
+* [AngularJS](http://angularjs.org)
+* [batman.js](http://batmanjs.org/)
+* [Spine](http://spinejs.com/)
+
+### Charting
+
+* [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
+* [Google Chart Tools / Image Charts (aka Chart API) - Google Code](http://code.google.com/apis/chart/)
+* [gRaphaël—Charting JavaScript Library](http://g.raphaeljs.com/)
+* [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
+* [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/)
+* [RGraph: HTML5 canvas graph library based on the HTML5 canvas tag](http://www.rgraph.net/)
+* [Simulchart](http://www.simulchart.com/)
+* [Smoothie Charts](http://smoothiecharts.org/)
+* [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
+
 ## CSS3
+
+### Stylesheet Language Extensions
+* [LESS](http://lesscss.org/)
+* [Sass](http://sass-lang.com/)
+* [Stylus](http://learnboost.github.com/stylus/)
 
 ---
 
@@ -60,6 +87,21 @@ Please feel free to contribute - the more the merrier!
 * [Coda](http://panic.com/coda/)
 * [Espresso](http://macrabbit.com/espresso/)
 
+## Build Tools
+
+* [CodeKit](http://incident57.com/codekit/)
+* [SimpLESS](http://wearekiss.com/simpless)
+
+## Debugging
+* [weinre](http://phonegap.github.com/weinre/)
+* [Resize](http://resizeSafari.com/)
+* [resizeMyBrowser](http://resizeMyBrowser.com/)
+
+## Testing
+[testling](http://www.testling.com/)
+[Unit Test](https://gist.github.com/976405)
+[YUI Test](http://developer.yahoo.com/yui/yuitest/)
+
 ---
 
 # Techniques
@@ -67,70 +109,23 @@ Please feel free to contribute - the more the merrier!
 
 
 
-# Charting
-
-[flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
-
-[Google Chart Tools / Image Charts (aka Chart API) - Google
-Code](http://code.google.com/apis/chart/)
-
-[gRaphaël—Charting JavaScript Library](http://g.raphaeljs.com/)
-
-[Highcharts - Interactive JavaScript charts for your
-webpage](http://www.highcharts.com/)
-
-[jQuery Sparklines](http://omnipotent.net/jquery.sparkline/)
-
-[RGraph: HTML5 canvas graph library based on the HTML5 canvas
-tag](http://www.rgraph.net/)
-
-[Simulchart](http://www.simulchart.com/)
-
-[Smoothie Charts](http://smoothiecharts.org/)
-
-[ZingChart + Build HTML5 and Flash Charts & Graphs for Web
-Applications](http://www.zingchart.com/)
 
 # CSS3
 
 [A CSS-based Form Template](http://nidahas.com/sandbox/form_template.html)
-
-[Applied CSS Management and
-Optimization](http://www.fiftyfoureleven.com/weblog/web-development/css
-/applied-css-management-and-optimization)
-
-[Applying CSS to forms](http://www.webcredible.co.uk/user-friendly-
-resources/css/css-forms.shtml)
-
-[Creating a sphere with 3D CSS – Paul
-Hayes](http://www.paulrhayes.com/2011-02/creating-a-sphere-with-3d-css/)
-
+[Applied CSS Management and Optimization](http://www.fiftyfoureleven.com/weblog/web-development/css/applied-css-management-and-optimization)
+[Applying CSS to forms](http://www.webcredible.co.uk/user-friendly-resources/css/css-forms.shtml)
+[Creating a sphere with 3D CSS – Paul Hayes](http://www.paulrhayes.com/2011-02/creating-a-sphere-with-3d-css/)
 [CSS Creator](http://csscreator.com/)
-
-[Fancy Form Design Using CSS [CSS Tutorials]](http://www.sitepoint.com/article
-/fancy-form-design-css)
-
-[Free CSS Navigation Menu Designs at exploding-boy.com](http://www.exploding-
-boy.com/images/cssmenus/menus.html#)
-
-[HTML 5 and CSS 3: The Techniques You’ll Soon Be Using |
-Nettuts+](http://net.tutsplus.com/tutorials/html-css-techniques/html-5-and-
-css-3-the-techniques-youll-soon-be-using/)
-
+[Fancy Form Design Using CSS [CSS Tutorials]](http://www.sitepoint.com/article/fancy-form-design-css)
+[Free CSS Navigation Menu Designs at exploding-boy.com](http://www.exploding-boy.com/images/cssmenus/menus.html#)
+[HTML 5 and CSS 3: The Techniques You’ll Soon Be Using | Nettuts+](http://net.tutsplus.com/tutorials/html-css-techniques/html-5-and-css-3-the-techniques-youll-soon-be-using/)
 [Modernizr](http://www.modernizr.com/)
-
 [Sass - Syntactically Awesome Stylesheets](http://sass-lang.com/)
-
-[Script Junkie | Respond to Different Devices With CSS3 Media
-Queries](http://msdn.microsoft.com/en-us/scriptjunkie/gg619395.aspx)
-
+[Script Junkie | Respond to Different Devices With CSS3 Media Queries](http://msdn.microsoft.com/en-us/scriptjunkie/gg619395.aspx)
 [The Shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/)
-
-[Type study: An all CSS button « The Typekit
-Blog](http://blog.typekit.com/2011/02/10/type-study-an-all-css-button/)
-
-[What Beautiful HTML Code Looks Like | CSS-Tricks](http://css-tricks.com/what-
-beautiful-html-code-looks-like/)
+[Type study: An all CSS button « The Typekit Blog](http://blog.typekit.com/2011/02/10/type-study-an-all-css-button/)
+[What Beautiful HTML Code Looks Like | CSS-Tricks](http://css-tricks.com/what-beautiful-html-code-looks-like/)
 
 # Frameworks
 
