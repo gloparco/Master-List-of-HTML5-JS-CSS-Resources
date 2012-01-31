@@ -10,8 +10,26 @@ Please feel free to contribute - the more the merrier!
 
 ## JavaScript
 
-### MVC Frameworks
+### General Purpose Frameworks
+* [jQuery](http://jquery.com/)
+* [YUI](http://developer.yahoo.com/yui/)
+* [Dojo Toolkit](http://dojotoolkit.org/)
+* [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/)
+* [Ext JS](http://www.sencha.com/products/extjs/)
+* [MooTools](http://mootools.net/)
+* [qooxdoo](http://qooxdoo.org/)
 
+### Mobile Frameworks with Widgets
+* [jQuery Mobile](http://jquerymobile.com/)
+* [Dojo Mobile](http://dojotoolkit.org/features/mobile)
+* [Sencha Touch](http://www.sencha.com/products/touch)
+* [Wink toolkit](http://www.winktoolkit.org/)
+
+### Mobile Frameworks without Widgets
+* [zepto.js](http://zeptojs.com/)
+* [xui.js](http://xuijs.com/)
+
+### MVC Frameworks
 * [Ember.js](http://emberjs.com/)
 * [Backbone.js](http://documentcloud.github.com/backbone/)
 * [Knockout](http://knockoutjs.com/)
@@ -21,7 +39,6 @@ Please feel free to contribute - the more the merrier!
 * [Spine](http://spinejs.com/)
 
 ### Charting
-
 * [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
 * [Google Chart Tools / Image Charts (aka Chart API) - Google Code](http://code.google.com/apis/chart/)
 * [gRaphaël—Charting JavaScript Library](http://g.raphaeljs.com/)
