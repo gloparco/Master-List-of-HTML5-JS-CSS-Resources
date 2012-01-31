@@ -164,11 +164,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<div id="designTools">
-test
-</div>
-
-# Tools for Design
+# Tools for Design<a id="designTools"/>
 
 ### Interactive Mockups
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
