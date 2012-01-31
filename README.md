@@ -10,13 +10,25 @@ Please feel free to contribute - the more the merrier!
 
 # Table of Contents
 
-###[Technologies](#technologies)
+### [Technologies](#technologies)
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
 * **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
 * **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
-* [Tools for Design](#designTools)
-* [Tools for Development](#developerTools)
-* [Techniques](#techniques)
+
+### [Tools for Design](#designTools)
+* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
+* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
+
+### [Tools for Development](#developerTools)
+* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
+* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
+
+### [Techniques](#techniques)
+* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
+* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
 
 ---
 <a name="technologies"/>
