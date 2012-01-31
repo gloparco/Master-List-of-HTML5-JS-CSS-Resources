@@ -24,6 +24,11 @@ Please feel free to contribute - the more the merrier!
 ### Performance
 * [Page Speed](http://code.google.com/speed/page-speed/)
 
+### Templates
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [Mobile Boilerplate](http://html5boilerplate.com/mobile)
+* [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/)
+
 ## JavaScript
 
 ### General Purpose Frameworks
@@ -104,6 +109,20 @@ Please feel free to contribute - the more the merrier!
 * [Sass](http://sass-lang.com/)
 * [Stylus](http://learnboost.github.com/stylus/)
 
+### Grid Systems
+* [960.gs](http://960.gs/)
+* [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
+* [YAML CSS Framework](http://www.yaml.de/)
+* [Blueprint](http://www.blueprintcss.org/)
+
+### Frameworks
+* [Bootstrap](http://twitter.github.com/bootstrap/)
+* [Foundation](http://foundation.zurb.com/)
+
+### Various Useful Links
+* [Google Web Fonts](http://www.google.com/webfonts)
+* [normalize.css](https://github.com/necolas/normalize.css/)
+
 ---
 
 # Tools for Design
@@ -153,11 +172,12 @@ Please feel free to contribute - the more the merrier!
 * [jslint](http://www.jslint.com/)
 * [JSHint](http://www.jshint.com/)
 
-## Build Tools
+## Build Tools & Compressors
 * [Google Closure Compiler](http://code.google.com/closure/compiler/)
 * [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 * [CodeKit](http://incident57.com/codekit/)
 * [SimpLESS](http://wearekiss.com/simpless)
+* [ProCSSor](http://procssorapp.com/)
 
 ## Performance
 [Benchmark.js](http://benchmarkjs.com/)
