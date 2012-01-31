@@ -183,6 +183,11 @@ Please feel free to contribute - the more the merrier!
 
 ### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
+	* [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
+	* [Sublime SFTP](http://wbond.net/sublime_packages/sftp)
+	* [SublimeLinter](https://github.com/Kronuz/SublimeLinter)
+	* [SideBarGit](https://github.com/SublimeText/SideBarGit)
+	* [Gene Loparco's Theme](http://blog.elemdage.com/wp-content/uploads/2012/01/Theme-Gene.zip)
 
 ### Code Editors: Mac Only
 * [TextMate](http://macromates.com/)
