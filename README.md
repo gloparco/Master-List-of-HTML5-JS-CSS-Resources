@@ -10,10 +10,10 @@ Please feel free to contribute - the more the merrier!
 
 # Table of Contents
 
-* [Technologies](technologies)
-* [Tools for Design](designTools)
-* [Tools for Development](developerTools)
-* [Techniques](techniques)
+* [Technologies](#technologies)
+* [Tools for Design](#designTools)
+* [Tools for Development](#developerTools)
+* [Techniques](#techniques)
 
 ---
 
