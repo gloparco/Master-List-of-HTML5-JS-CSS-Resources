@@ -16,8 +16,8 @@ Please feel free to contribute - the more the merrier!
 * [Techniques](#techniques)
 
 ---
-
-# Technologies<a name="technologies"/>
+<a name="technologies"/>
+# Technologies
 
 ## HTML5
 
@@ -163,8 +163,8 @@ Please feel free to contribute - the more the merrier!
 * [normalize.css](https://github.com/necolas/normalize.css/)
 
 ---
-
-# Tools for Design<a name="designTools"/>
+<a name="designTools"/>
+# Tools for Design
 
 ### Interactive Mockups
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
@@ -187,8 +187,8 @@ Please feel free to contribute - the more the merrier!
 * [Sencha Animator](http://www.sencha.com/products/animator/)
 
 ---
-
-# Tools for Development<a name="developmentTools"/>
+<a name="developerTools"/>
+# Tools for Development
 
 ### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
@@ -272,8 +272,8 @@ Please feel free to contribute - the more the merrier!
 * [Gitbox](http://www.gitboxapp.com/)
 
 ---
-
-# Techniques<a name="techniques"/>
+<a name="techniques"/>
+# Techniques
 
 ## CSS
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
