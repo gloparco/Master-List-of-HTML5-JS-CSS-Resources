@@ -28,6 +28,7 @@ Please feel free to contribute - the more the merrier!
 ### Mobile Frameworks without Widgets
 * [zepto.js](http://zeptojs.com/)
 * [xui.js](http://xuijs.com/)
+* [EmbedJS](http://uxebu.github.com/embedjs/)
 
 ### MVC Frameworks
 * [Ember.js](http://emberjs.com/)
@@ -61,18 +62,15 @@ Please feel free to contribute - the more the merrier!
 # Tools for Design
 
 ## Interactive Mockups
-
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
 * [Keynote Kung-Fu](http://keynotekungfu.com/)
 * [Keynotopia](http://keynotopia.com/)
 
 ## Graphics & Image Editors
-
 * [Pixelmator](http://www.pixelmator.com/)
 * [Adobe Photoshop](http://success.adobe.com/en/na/sem/products/photoshop.html)
 
 ## Vector Graphics Editors
-
 * [Inkscape](http://inkscape.org/)
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Corel Draw](http://www.corel.com/corel/category.jsp?rootCat=cat20146&cat=cat3430091)
@@ -96,7 +94,6 @@ Please feel free to contribute - the more the merrier!
 * [TextPad](http://www.textpad.com/)
 
 ## Integrated Development Environments (IDE)
-
 * [WebStorm](http://www.jetbrains.com/webstorm/)
 * [NetBeans](http://netbeans.org/)
 * [Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
@@ -105,7 +102,6 @@ Please feel free to contribute - the more the merrier!
 * [Espresso](http://macrabbit.com/espresso/)
 
 ## Build Tools
-
 * [CodeKit](http://incident57.com/codekit/)
 * [SimpLESS](http://wearekiss.com/simpless)
 
@@ -115,9 +111,25 @@ Please feel free to contribute - the more the merrier!
 * [resizeMyBrowser](http://resizeMyBrowser.com/)
 
 ## Testing
-[testling](http://www.testling.com/)
-[Unit Test](https://gist.github.com/976405)
-[YUI Test](http://developer.yahoo.com/yui/yuitest/)
+* [testling](http://www.testling.com/)
+* [Unit Test](https://gist.github.com/976405)
+* [YUI Test](http://developer.yahoo.com/yui/yuitest/)
+
+## Emulators
+* [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
+* [Adobe Device Central](http://www.adobe.com/products/devicecentral.html)
+
+## Documentation Generators
+* [JSDoc2](http://code.google.com/p/jsdoc-toolkit/)
+* [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
+* [PDoc](http://pdoc.org/)
+* [docco](http://jashkenas.github.com/docco/)
+
+## Mobile Deployment
+* [PhoneGap](http://phonegap.com/)
+* [Titanium](http://www.appcelerator.com/products/titanium-cross-platform-application-development/)
+* [appMobi](http://www.appmobi.com/)
+* [TestFlight](https://testflightapp.com/)
 
 ---
 
@@ -154,14 +166,9 @@ part-1/?utm_source=javascriptweekly&utm_medium=email)
 appleinsider.com/articles/10/04/19/sproutcore_debuts_new_html5_web_development
 _tools.html)
 
-[Backbone.js](http://documentcloud.github.com/backbone/)
+[Backbone.js tutorial « the metacloud](http://www.plexical.com/blog/2010/11/18/backbone-js-tutorial/)
 
-[Backbone.js tutorial « the meta
-cloud](http://www.plexical.com/blog/2010/11/18/backbone-js-tutorial/)
-
-[Building a single page app with Backbone.js, underscore.js and jQuery | &yet
-| the blog](http://andyet.net/blog/2010/oct/29/building-a-single-page-app-
-with-backbonejs-undersc/)
+[Building a single page app with Backbone.js, underscore.js and jQuery | &yet | the blog](http://andyet.net/blog/2010/oct/29/building-a-single-page-app-with-backbonejs-undersc/)
 
 [DailyJS: Tags](http://dailyjs.com/tags.html#frameworks)
 
@@ -201,18 +208,6 @@ Frameworks](http://jqueryvsmootools.com/)
 
 [YUI3 vs jQuery](http://dsheiko.com/weblog/yui3-vs-jquery)
 
-# Frameworks - MicroFrameworks
-
-[baseJS: A Mobile JavaScript Framework : Weblog : Paul Armstrong Designs](http://paularmstrongdesigns.com/weblog/basejs-a-mobile-javascript-
-framework/)
-
-[Explaining EmbedJS « Uxebu.com – the Ajax and JavaScript Experts](http://uxebu.com/blog/2011/01/31/explaining-embedjs/)
-
-[Hacker News | My question is if zepto.js is only 2k then why is jQuery 26k? What features are…](http://news.ycombinator.com/item?id=1843679)
-
-[XUI | javascript micro-framework](http://xuijs.com/)
-
-[zepto.js — the aerogel-weight mobile javascript framework](http://zeptojs.com/)
 
 # HTML Features
 
