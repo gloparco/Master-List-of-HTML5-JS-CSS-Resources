@@ -1,3 +1,5 @@
+# Master List of HTML5, JavaScript, and CSS Resources
+
 This list started out as a [blog post](http://blog.elemdage.com/technology/master-list-of-html5jsscss-resources), with the intent of sharing a list of HTML5, JavaScript, and CSS3 resources that I found very useful.  Feel free to read the [original article](http://blog.elemdage.com/technology/master-list-of-html5jsscss-resources) to see what links I deemed relevent in January of 2011.
 
 The following is a revised, hopefully continually updated, list of technologies, techniques, and tools that have been cultivated with experienced and aspiring front end developers and designers in mind.
