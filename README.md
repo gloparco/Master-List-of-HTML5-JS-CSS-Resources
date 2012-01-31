@@ -11,8 +11,8 @@ Please feel free to contribute - the more the merrier!
 # Table of Contents
 
 * [Technologies](#technologies)
-	* *[HTML5](#html5):* [Books & Reference](#html5-books), [Performance](#html5-performance), [Templates](#html5-templates), [eBook Frameworks](#html5-ebooks)
-	* *[JavaScript](#javascript):* [Frameworks](#js-frameworks), [Mobile Frameworks w/Widgets](#js-mobileWithWidgets), [Mobile Frameworks w/o Widgets](js-mobile), [MVC Frameworks](js-mvc), [Template Libraries](js-templating), [Various Useful Libs](js-misc)
+	* **[HTML5](#html5):** [Books & Reference](#html5-books), [Performance](#html5-performance), [Templates](#html5-templates), [eBook Frameworks](#html5-ebooks)
+	* **[JavaScript](#javascript):** [Frameworks](#js-frameworks), [Mobile Frameworks w/Widgets](#js-mobileWithWidgets), [Mobile Frameworks w/o Widgets](#js-mobile), [MVC Frameworks](#js-mvc), [Template Libraries](#js-templating), [Various Useful Libs](#js-misc), [Charting](#js-charting), [Graphics Libraries](#js-graphics), [Client-side Messaging](#js-cmsg), [Services & Push Messaging](#js-smsg), [Server-side JavaScript](#js-server), [Game Engines](#js-gameEngines), [Game Audio](#js-gameAudio), [Books & Reference](#js-books)
 * [Tools for Design](#designTools)
 * [Tools for Development](#developerTools)
 * [Techniques](#techniques)
@@ -120,25 +120,30 @@ Please feel free to contribute - the more the merrier!
 * [Smoothie Charts](http://smoothiecharts.org/)
 * [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
 
+<a name="js-graphics"/>
 ### Graphics Libraries
 * [Processing.js](http://processingjs.org/)
 * [Isotope](http://isotope.metafizzy.co/)
 
+<a name="js-cmsg"/>
 ### Client-side Messaging
 * [TIBCO PageBus](http://developer.tibco.com/pagebus/)
 
+<a name="js-smsg"/>
 ### Services & Push Messaging
 * [StackMob](http://stackmob.com/)
 * [PubNub](http://www.pubnub.com/)
 * [Urban Airship](http://urbanairship.com/)
 * [appMobi Cloud Services](http://www.appmobi.com/?q=node/137)
 
+<a name="js-server"/>
 ### Server-side JavaScript
 * [node.js](http://nodejs.org/)
 * [Express](http://expressjs.com/)
 * [(fab)](https://github.com/jed/fab)
 * [Restler](https://github.com/danwrong/restler)
 
+<a name="js-gameEngines"/>
 ### Game Engines
 * [Impact](http://impactjs.com/)
 * [EaselJS](http://easeljs.com/)
@@ -146,10 +151,12 @@ Please feel free to contribute - the more the merrier!
 * [Crafty](http://craftyjs.com/)
 * [DirectCanvas](https://github.com/appMobi/ios)
 
+<a name="js-gameAudio"/>
 ### Game Audio
 * [SoundJS](http://soundjs.com/)
 * [SoundManager](http://www.schillmania.com/projects/soundmanager2/)
 
+<a name="js-books"/>
 ### Books & Reference
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/)
