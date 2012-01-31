@@ -6,6 +6,8 @@ The following is a revised, hopefully continually updated, list of technologies,
 
 Please feel free to contribute - the more the merrier!
 
+---
+
 # Technologies
 
 ## HTML5
