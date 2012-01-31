@@ -17,7 +17,8 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<h1 id="technologies">Technologies</h1>
+<div id="technologies"></div>
+# Technologies
 
 ## HTML5
 
@@ -164,8 +165,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<!---<h1 id="designTools">Tools for Design</h1>-->
-<h2 id="designTools">Tools for Design</h2>
+# Tools for Design
 
 ### Interactive Mockups
 * [Keynote](http://www.apple.com/iwork/keynote/) with templates:
@@ -189,7 +189,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<h1 id="developerTools">Tools for Development</h1>
+# Tools for Development
 
 ### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
@@ -274,7 +274,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<h1 id="techniques">Techniques</h1>
+# Techniques
 
 ## CSS
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
