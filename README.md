@@ -17,7 +17,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-# Technologies
+# Technologies<a name="technologies"/>
 
 ## HTML5
 
@@ -188,7 +188,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-# Tools for Development
+# Tools for Development<a name="developmentTools"/>
 
 ### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
@@ -273,7 +273,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-# Techniques
+# Techniques<a name="techniques"/>
 
 ## CSS
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
