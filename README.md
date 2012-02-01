@@ -188,7 +188,8 @@ Please feel free to contribute - the more the merrier!
 * [Stylus](http://learnboost.github.com/stylus/)
 
 <a name="css-grids"/>
-### Grid Systems
+### Grid Systems & Boilderplates
+* [Skeleton](http://getskeleton.com/)
 * [960.gs](http://960.gs/)
 * [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
 * [YAML CSS Framework](http://www.yaml.de/)
@@ -205,6 +206,7 @@ Please feel free to contribute - the more the merrier!
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [169 Icons](http://raphaeljs.com/icons/)
 * [iconSweets2](http://iconsweets2.com/)
+* [Premium Pixels](http://www.premiumpixels.com/)
 
 <a name="css-misc"/>
 ### Various Useful Links
@@ -346,14 +348,17 @@ Please feel free to contribute - the more the merrier!
 # Techniques
 
 ### Generally Useful Sites
+* [A List Apart](http://www.alistapart.com/)
+* [Boxes and Arrows](http://www.boxesandarrows.com/)
 * [Codrops](http://tympanus.net/codrops/)
+* [CSS-Tricks](http://css-tricks.com/)
+* [Web Designer Wall](http://webdesignerwall.com/)
 
 <a name="cssTechniques"/>
 ### CSS & Presentation
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
 * [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
-* []
 
 <a name="responsive"/>
 ### Responsive Web Design
@@ -362,7 +367,7 @@ Please feel free to contribute - the more the merrier!
 <a name="jsBlogs"/>
 ### JavaScript Blogs & Showcases
 * [CreativeJS](http://creativejs.com/)
-* [Seb Lee-Delisle](http://sebleedelisle.com/)
+* [Seb Lee-Delisle](http://sebleedelisle.com/blog/)
 * [o2.js](http://o2js.com/)
 
 <a name="jsPatterns"/>
