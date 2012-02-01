@@ -4,6 +4,8 @@ This list started out as a [blog post](http://blog.elemdage.com/technology/maste
 
 The following is a revised, hopefully continually updated, list of technologies, techniques, and tools that have been cultivated with experienced and aspiring front end developers and designers in mind.
 
+NOTE: Since the number of options for any given category can be overwhelming (for instance, MVC JavaScript frameworks), I would like to restrict this list to the best in class & most popular options.  There are other, more comprehensive lists out there (such as [jswiki](https://github.com/bebraw/jswiki/wiki)), but that's not what I'm striving to maintain here.  Instead, I'd like to present a paired-down list of the very best options available.  So, if there's a pretty good library that hasn't had a code update in 10 months, I'll likely take it off this list.  You get the idea.
+
 Please feel free to contribute - the more the merrier!
 
 ---
