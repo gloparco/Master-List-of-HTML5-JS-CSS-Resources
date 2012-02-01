@@ -14,8 +14,8 @@ Please feel free to contribute - the more the merrier!
 
 ### [Technologies](#technologies)
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
-* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
-* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Various Useful Links](#css-misc)
+* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Icons & Fonts](#css-icons) ・ [Various Useful Links](#css-misc)
 
 ### [Tools for Design](#designTools)
 * [Interactive Mockups](#mockups) ・ [Graphics & Image Editors](#graphicsEditors) ・ [Vector Graphics Editors](#vectorEditors) ・ [Animation](#animation)
@@ -24,7 +24,7 @@ Please feel free to contribute - the more the merrier!
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl)
 
 ### [Techniques](#techniques)
-* [CSS](#cssTechniques) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Sublime Text Tips](#sublimeTips)
+* [CSS](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Sublime Text Tips](#sublimeTips)
 
 ---
 
@@ -110,6 +110,7 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-misc"/>
 ### Various Useful Libraries
+* [JSON2](https://github.com/douglascrockford/JSON-js)
 * [Modernizr](http://www.modernizr.com/)
 * [yepnope.js](http://yepnopejs.com/)
 * [RequireJS](http://requirejs.org/)
@@ -131,9 +132,11 @@ Please feel free to contribute - the more the merrier!
 * [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
 
 <a name="js-graphics"/>
-### Graphics Libraries
+### Graphics & Presentation Libraries
 * [Processing.js](http://processingjs.org/)
 * [Isotope](http://isotope.metafizzy.co/)
+* [impress.js](http://bartaz.github.com/impress.js)
+* [html5slides](http://code.google.com/p/html5slides/)
 
 <a name="js-cmsg"/>
 ### Client-side Messaging
@@ -154,7 +157,7 @@ Please feel free to contribute - the more the merrier!
 * [Restler](https://github.com/danwrong/restler)
 
 <a name="js-gameEngines"/>
-### Game Engines
+### Game Engines & Related
 * [Impact](http://impactjs.com/)
 * [EaselJS](http://easeljs.com/)
 * [LimeJS](http://www.limejs.com/)
@@ -194,9 +197,13 @@ Please feel free to contribute - the more the merrier!
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [Foundation](http://foundation.zurb.com/)
 
+<a name="css-icons"/>
+### Icons & Fonts
+* [Google Web Fonts](http://www.google.com/webfonts)
+* [169 Icons](http://raphaeljs.com/icons/)
+
 <a name="css-misc"/>
 ### Various Useful Links
-* [Google Web Fonts](http://www.google.com/webfonts)
 * [normalize.css](https://github.com/necolas/normalize.css/)
 
 ---
@@ -337,6 +344,10 @@ Please feel free to contribute - the more the merrier!
 ### CSS
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
+
+<a name="responsive"/>
+### Responsive Web Design
+* [How to Approach a Responsive Desing](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
 
 <a name="jsBlogs"/>
 ### JavaScript Blogs & Showcases
