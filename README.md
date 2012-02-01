@@ -347,7 +347,7 @@ Please feel free to contribute - the more the merrier!
 
 <a name="responsive"/>
 ### Responsive Web Design
-* [How to Approach a Responsive Desing](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
 
 <a name="jsBlogs"/>
 ### JavaScript Blogs & Showcases
