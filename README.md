@@ -24,7 +24,7 @@ Please feel free to contribute - the more the merrier!
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl)
 
 ### [Techniques](#techniques)
-* [CSS](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Sublime Text Tips](#sublimeTips)
+* [CSS & Presentation](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Sublime Text Tips](#sublimeTips)
 
 ---
 
@@ -43,6 +43,7 @@ Please feel free to contribute - the more the merrier!
 * [HTML5 & CSS3 Support](http://www.findmebyip.com/litmus/)
 * [HTML5 Demos](http://html5demos.com/)
 * [The HTML5 test](http://html5test.com/)
+* [HTML5 Please](http://html5please.us/)
 * [Periodic Table of the Elements](http://joshduck.com/periodic-table.html)
 * [W3C HTML5 Specification](http://www.w3.org/TR/html5/)
 * [WHATWG HTML Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
@@ -88,6 +89,7 @@ Please feel free to contribute - the more the merrier!
 <a name="js-mobile"/>
 ### Mobile Frameworks without Widgets
 * [zepto.js](http://zeptojs.com/)
+* [o2.js](http://o2js.com/)
 * [xui.js](http://xuijs.com/)
 * [RightJS](http://rightjs.org/)
 * [EmbedJS](http://uxebu.github.com/embedjs/)
@@ -200,7 +202,9 @@ Please feel free to contribute - the more the merrier!
 <a name="css-icons"/>
 ### Icons & Fonts
 * [Google Web Fonts](http://www.google.com/webfonts)
+* [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [169 Icons](http://raphaeljs.com/icons/)
+* [iconSweets2](http://iconsweets2.com/)
 
 <a name="css-misc"/>
 ### Various Useful Links
@@ -309,6 +313,7 @@ Please feel free to contribute - the more the merrier!
 * [js-test-driver](http://code.google.com/p/js-test-driver/)
 * [Tutti](http://tuttijs.com/)
 * [Remote-Tilt](http://remote-tilt.com/)
+* [PhantomJS](http://www.phantomjs.org/)
 
 <a name="emulators"/>
 ### Emulators
@@ -340,10 +345,15 @@ Please feel free to contribute - the more the merrier!
 <a name="techniques"/>
 # Techniques
 
+### Generally Useful Sites
+* [Codrops](http://tympanus.net/codrops/)
+
 <a name="cssTechniques"/>
-### CSS
+### CSS & Presentation
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
+* [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
+* []
 
 <a name="responsive"/>
 ### Responsive Web Design
@@ -357,11 +367,20 @@ Please feel free to contribute - the more the merrier!
 
 <a name="jsPatterns"/>
 ### JavaScript Patterns
-* [JavaScript Module Pattern](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
-* [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
+* [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
+* [The JavaScript Module Pattern](http://o2js.com/2011/04/24/the-module-pattern/)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
+* [Choosing JavaScript Module Dependency Syntax](http://blog.calyptus.eu/seb/2011/10/choosing-a-javascript-module-syntax/)
+* [Patterns for modules and namespaces in JavaScript](http://www.2ality.com/2011/04/modules-and-namespaces-in-javascript.html)
+
+<a name="wapps"/>
+### Web Apps
+* [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
 
 <a name="sublimeTips"/>
 ### Sublime Text 2 Tips
 * [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
+* [9 reasons you must install Sublime Text 2](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)
+* [An Editor You Will Regret You Haven't Used Before](http://o2js.com/2011/10/29/fell-in-love-with-sublime-text-2/)
