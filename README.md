@@ -13,7 +13,7 @@ Please feel free to contribute - the more the merrier!
 # Table of Contents
 
 ### [Technologies](#technologies)
-* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Performance](#html5-performance) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
+* **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
 * **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
 * **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Icons & Fonts](#css-icons) ・ [Various Useful Links](#css-misc)
 
@@ -48,10 +48,6 @@ Please feel free to contribute - the more the merrier!
 * [W3C HTML5 Specification](http://www.w3.org/TR/html5/)
 * [WHATWG HTML Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
 * [A Web Developer's Guide to HTML5](http://dev.w3.org/html5/html-author/)
-
-<a name="html5-performance"/>
-### Performance
-* [Page Speed](http://code.google.com/speed/page-speed/)
 
 <a name="html5-templates"/>
 ### Templates
@@ -298,8 +294,11 @@ Please feel free to contribute - the more the merrier!
 
 <a name="performance"/>
 ### Performance
+* [Page Speed](http://code.google.com/speed/page-speed/)
 * [Benchmark.js](http://benchmarkjs.com/)
 * [jsPerf](http://jsperf.com/)
+* [Mobitest](http://www.blaze.io/mobile/)
+* [Mobile Perf bookmarklet](http://stevesouders.com/mobileperf/mobileperfbkm.php)
 
 <a name="codeSharing"/>
 ### Code Sharing
@@ -311,6 +310,8 @@ Please feel free to contribute - the more the merrier!
 * [Resize](http://resizeSafari.com/)
 * [resizeMyBrowser](http://resizeMyBrowser.com/)
 * [JavaScript console](http://jsconsole.com/)
+* [Charles Web Debugging Proxy](http://www.charlesproxy.com/)
+* [Jdrop](http://jdrop.org/)
 
 <a name="testing"/>
 ### Testing
@@ -328,6 +329,7 @@ Please feel free to contribute - the more the merrier!
 ### Emulators
 * [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
 * [Adobe Device Central](http://www.adobe.com/products/devicecentral.html)
+* [Mobile Emulators and Simulators](www.mobilexweb.com/emulators)
 
 <a name="docGenerators"/>
 ### Documentation Generators
@@ -391,6 +393,7 @@ Please feel free to contribute - the more the merrier!
 <a name="wapps"/>
 ### Web Apps
 * [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
+* [Mobile Web & HTML5](http://www.slideshare.net/firt/mobile-web-html5-performance-optimization)
 
 <a name="sublimeTips"/>
 ### Sublime Text 2 Tips
