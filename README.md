@@ -24,7 +24,7 @@ Please feel free to contribute - the more the merrier!
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl)
 
 ### [Techniques](#techniques)
-* [CSS & Presentation](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Sublime Text Tips](#sublimeTips)
+* [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Sublime Text Tips](#sublimeTips)
 
 ---
 
@@ -84,6 +84,7 @@ Please feel free to contribute - the more the merrier!
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Dojo Mobile](http://dojotoolkit.org/features/mobile)
 * [Sencha Touch](http://www.sencha.com/products/touch)
+* [Kendo UI](http://www.kendoui.com/)
 * [Wink toolkit](http://www.winktoolkit.org/)
 
 <a name="js-mobile"/>
@@ -93,6 +94,7 @@ Please feel free to contribute - the more the merrier!
 * [xui.js](http://xuijs.com/)
 * [RightJS](http://rightjs.org/)
 * [EmbedJS](http://uxebu.github.com/embedjs/)
+* [LungoJS](http://www.lungojs.com/)
 
 <a name="js-mvc"/>
 ### MVC Frameworks
@@ -120,6 +122,8 @@ Please feel free to contribute - the more the merrier!
 * [Underscore.js](http://underscorejs.org/)
 * [chainvas](http://leaverou.github.com/chainvas/)
 * [Lightning.js](http://lightningjs.com/)
+* [Sugar](http://sugarjs.com/)
+* [Terrific](http://www.terrifically.org/)
 
 <a name="js-charting"/>
 ### Charting
@@ -305,6 +309,7 @@ Please feel free to contribute - the more the merrier!
 * [weinre](http://phonegap.github.com/weinre/)
 * [Resize](http://resizeSafari.com/)
 * [resizeMyBrowser](http://resizeMyBrowser.com/)
+* [JavaScript console](http://jsconsole.com/)
 
 <a name="testing"/>
 ### Testing
@@ -347,6 +352,7 @@ Please feel free to contribute - the more the merrier!
 <a name="techniques"/>
 # Techniques
 
+<a name="generallyUseful"/>
 ### Generally Useful Sites
 * [A List Apart](http://www.alistapart.com/)
 * [Boxes and Arrows](http://www.boxesandarrows.com/)
