@@ -161,6 +161,7 @@ Please feel free to contribute - the more the merrier!
 * [Express](http://expressjs.com/)
 * [(fab)](https://github.com/jed/fab)
 * [Restler](https://github.com/danwrong/restler)
+* [should.js](https://github.com/visionmedia/should.js)
 
 <a name="js-gameEngines"/>
 ### Game Engines & Related
@@ -321,6 +322,7 @@ Please feel free to contribute - the more the merrier!
 * [Tutti](http://tuttijs.com/)
 * [Remote-Tilt](http://remote-tilt.com/)
 * [PhantomJS](http://www.phantomjs.org/)
+* [Mocha](http://visionmedia.github.com/mocha/)
 
 <a name="emulators"/>
 ### Emulators
