@@ -24,7 +24,7 @@ Please feel free to contribute - the more the merrier!
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl) ・ [Miscellaneous](#miscTools)
 
 ### [Techniques](#techniques)
-* [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Sublime Text Tips](#sublimeTips)
+* [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Transitions & Effects](#effects) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Testing Techniques](#testingTechniques) ・ [Sublime Text Tips](#sublimeTips)
 
 ---
 
@@ -242,6 +242,7 @@ Please feel free to contribute - the more the merrier!
 * [Tumult Hype](http://tumultco.com/hype/)
 * [Adobe Edge](http://labs.adobe.com/technologies/edge/)
 * [Sencha Animator](http://www.sencha.com/products/animator/)
+* [Ceaser - CSS Easing Animation Tool](http://matthewlein.com/ceaser/)
 
 ---
 <a name="developerTools"/>
@@ -325,6 +326,7 @@ Please feel free to contribute - the more the merrier!
 * [Remote-Tilt](http://remote-tilt.com/)
 * [PhantomJS](http://www.phantomjs.org/)
 * [Mocha](http://visionmedia.github.com/mocha/)
+* [QUnit](http://docs.jquery.com/Qunit)
 
 <a name="emulators"/>
 ### Emulators
@@ -375,16 +377,25 @@ Please feel free to contribute - the more the merrier!
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
 * [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
+* [* { box-sizing: border-box } FTW](http://paulirish.com/2012/box-sizing-border-box-ftw/)
+* [An Event Apart: CSS Best Practices](http://www.lukew.com/ff/entry.asp?1469)
 
 <a name="effects"/>
 ### Effects & Transitions
 * [Curtain.js](http://curtain.victorcoulon.fr/)
 * [Image Content Slider](http://designmodo.com/slider-css3/)
 * [reveal.js](http://lab.hakim.se/reveal-js/#/)
+* [Animate.css](http://daneden.me/animate/)
 
 <a name="responsive"/>
 ### Responsive Web Design
 * [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [Fluid grids, orientation & resolution independence](http://blog.responsivenews.co.uk/post/13925578846/fluid-grids-orientation-resolution-independence)
+* [Media Queries for Standard Devices](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+* [Hardboiled CSS3 Media Queries](http://www.stuffandnonsense.co.uk/blog/about/hardboiled_css3_media_queries/)
+* [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [The Goldilocks Approach](http://goldilocksapproach.com/)
+* [Use CSS transitions to link Media Queries and JavaScript](http://www.paulrhayes.com/2011-11/use-css-transitions-to-link-media-queries-and-javascript/)
 
 <a name="jsBlogs"/>
 ### JavaScript Blogs & Showcases
@@ -406,6 +417,10 @@ Please feel free to contribute - the more the merrier!
 ### Web Apps
 * [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
 * [Mobile Web & HTML5](http://www.slideshare.net/firt/mobile-web-html5-performance-optimization)
+
+<a name="testingTechniques"/>
+### Testing Techniques
+* [JavaScript continuous testing](http://joseoncode.com/2011/08/08/javascript-continuous-testing-with-qunit-phantomjs-and-powershell/)
 
 <a name="sublimeTips"/>
 ### Sublime Text 2 Tips
