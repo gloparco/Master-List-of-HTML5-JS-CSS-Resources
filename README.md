@@ -21,7 +21,7 @@ Please feel free to contribute - the more the merrier!
 * [Interactive Mockups](#mockups) ・ [Graphics & Image Editors](#graphicsEditors) ・ [Vector Graphics Editors](#vectorEditors) ・ [Animation](#animation)
 
 ### [Tools for Development](#developerTools)
-* [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl)
+* [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl) ・ [Miscellaneous](#miscTools)
 
 ### [Techniques](#techniques)
 * [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Sublime Text Tips](#sublimeTips)
@@ -154,10 +154,11 @@ Please feel free to contribute - the more the merrier!
 <a name="js-server"/>
 ### Server-side JavaScript
 * [node.js](http://nodejs.org/)
-* [Express](http://expressjs.com/)
-* [(fab)](https://github.com/jed/fab)
-* [Restler](https://github.com/danwrong/restler)
-* [should.js](https://github.com/visionmedia/should.js)
+	* [sequelize](https://github.com/sdepold/sequelize)
+	* [Express](http://expressjs.com/)
+	* [(fab)](https://github.com/jed/fab)
+	* [Restler](https://github.com/danwrong/restler)
+	* [should.js](https://github.com/visionmedia/should.js)
 
 <a name="js-gameEngines"/>
 ### Game Engines & Related
@@ -189,7 +190,7 @@ Please feel free to contribute - the more the merrier!
 * [Stylus](http://learnboost.github.com/stylus/)
 
 <a name="css-grids"/>
-### Grid Systems & Boilderplates
+### Grid Systems & Boilerplates
 * [Skeleton](http://getskeleton.com/)
 * [960.gs](http://960.gs/)
 * [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
@@ -350,6 +351,11 @@ Please feel free to contribute - the more the merrier!
 ### Version Control
 * [Git Reference](http://gitref.org/)
 * [Gitbox](http://www.gitboxapp.com/)
+* [git - the simple guide](http://rogerdudler.github.com/git-guide/)
+
+<a name="miscTools"/>
+### Miscellaneous
+* [Loremify](http://tobiasahlin.com/blog/introducing-loremify/)
 
 ---
 
@@ -369,6 +375,12 @@ Please feel free to contribute - the more the merrier!
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
 * [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
+
+<a name="effects"/>
+### Effects & Transitions
+* [Curtain.js](http://curtain.victorcoulon.fr/)
+* [Image Content Slider](http://designmodo.com/slider-css3/)
+* [reveal.js](http://lab.hakim.se/reveal-js/#/)
 
 <a name="responsive"/>
 ### Responsive Web Design
