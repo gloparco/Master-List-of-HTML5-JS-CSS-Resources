@@ -105,8 +105,9 @@ Please feel free to contribute - the more the merrier!
 <a name="js-templating"/>
 ### Template Libraries
 * [mustache.js](https://github.com/janl/mustache.js)
+* [Handlebars.js](handlebarsjs.com)
+* [Hogan.js](http://twitter.github.com/hogan.js/)
 * [ICanHaz.js](http://icanhazjs.com/)
-* [minimal.js](https://github.com/ruidlopes/minimal.js)
 
 <a name="js-misc"/>
 ### Various Useful Libraries
@@ -417,6 +418,7 @@ Please feel free to contribute - the more the merrier!
 ### Web Apps
 * [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
 * [Mobile Web & HTML5](http://www.slideshare.net/firt/mobile-web-html5-performance-optimization)
+* [Scaling Your JavaScript Applications](http://addyosmani.com/scalable-javascript-videos/)
 
 <a name="testingTechniques"/>
 ### Testing Techniques
