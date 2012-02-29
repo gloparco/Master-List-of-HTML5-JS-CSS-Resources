@@ -294,6 +294,7 @@ Please feel free to contribute - the more the merrier!
 * [CodeKit](http://incident57.com/codekit/)
 * [SimpLESS](http://wearekiss.com/simpless)
 * [ProCSSor](http://procssorapp.com/)
+* [grunt](https://github.com/cowboy/grunt)
 
 <a name="performance"/>
 ### Performance
@@ -315,6 +316,9 @@ Please feel free to contribute - the more the merrier!
 * [JavaScript console](http://jsconsole.com/)
 * [Charles Web Debugging Proxy](http://www.charlesproxy.com/)
 * [Jdrop](http://jdrop.org/)
+* [BrowserStack](http://www.browserstack.com/)
+* [CSS3 Please!](http://css3please.com/)
+* [Linear Gradients](http://westciv.com/tools/gradients/)
 
 <a name="testing"/>
 ### Testing
@@ -328,6 +332,7 @@ Please feel free to contribute - the more the merrier!
 * [PhantomJS](http://www.phantomjs.org/)
 * [Mocha](http://visionmedia.github.com/mocha/)
 * [QUnit](http://docs.jquery.com/Qunit)
+* [Responsive Design Testing](http://mattkersley.com/responsive/)
 
 <a name="emulators"/>
 ### Emulators
@@ -359,6 +364,7 @@ Please feel free to contribute - the more the merrier!
 <a name="miscTools"/>
 ### Miscellaneous
 * [Loremify](http://tobiasahlin.com/blog/introducing-loremify/)
+* [Codiqa jQuery Prototype Builder](http://www.codiqa.com/)
 
 ---
 
