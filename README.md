@@ -19,10 +19,10 @@ Please feel free to contribute - the more the merrier!
 
 ### [Tools](#designTools)
 
-#### [Tools for Design](#designTools)
+#### [  Tools for Design](#designTools)
 * [Interactive Mockups](#mockups) ・ [Graphics & Image Editors](#graphicsEditors) ・ [Vector Graphics Editors](#vectorEditors) ・ [Animation](#animation)
 
-#### [Tools for Development](#developerTools)
+#### [  Tools for Development](#developerTools)
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl) ・ [Miscellaneous](#miscTools)
 
 ### [Techniques](#techniques)
