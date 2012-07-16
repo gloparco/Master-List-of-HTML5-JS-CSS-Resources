@@ -15,12 +15,11 @@ Please feel free to contribute - the more the merrier!
 [Technologies](#technologies)
 -----------------------------
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
-* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Mapping](#js-mapping) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
 * **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Icons & Fonts](#css-icons) ・ [Various Useful Links](#css-misc)
 
 [Tools](#designTools)
 ---------------------
-
 #### [Tools for Design](#designTools)
 * [Interactive Mockups](#mockups) ・ [Graphics & Image Editors](#graphicsEditors) ・ [Vector Graphics Editors](#vectorEditors) ・ [Animation](#animation)
 
@@ -138,6 +137,11 @@ Please feel free to contribute - the more the merrier!
 * [Simulchart](http://www.simulchart.com/)
 * [Smoothie Charts](http://smoothiecharts.org/)
 * [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
+
+<a name="js-mapping"/>
+### Mapping
+* [gmaps.js](http://hpneo.github.com/gmaps/)
+* [Leaflet](http://leaflet.cloudmade.com/)
 
 <a name="js-graphics"/>
 ### Graphics & Presentation Libraries
@@ -306,7 +310,7 @@ Please feel free to contribute - the more the merrier!
 * [Page Speed](http://code.google.com/speed/page-speed/)
 * [Benchmark.js](http://benchmarkjs.com/)
 * [jsPerf](http://jsperf.com/)
-* [Mobitest](http://www.blaze.io/mobile/)
+* [Mobitest](http://mobitest.akamai.com/m/index.cgi)
 * [Mobile Perf bookmarklet](http://stevesouders.com/mobileperf/mobileperfbkm.php)
 
 <a name="codeSharing"/>
@@ -327,6 +331,9 @@ Please feel free to contribute - the more the merrier!
 
 <a name="testing"/>
 ### Testing
+* [Buster.js](http://busterjs.org/)
+* [Sinon.js](http://sinonjs.org/)
+* [JSCheck](http://www.JSCheck.org/)
 * [testling](http://www.testling.com/)
 * [Unit Test](https://gist.github.com/976405)
 * [YUI Test](http://developer.yahoo.com/yui/yuitest/)
@@ -440,3 +447,7 @@ Please feel free to contribute - the more the merrier!
 * [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 * [9 reasons you must install Sublime Text 2](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)
 * [An Editor You Will Regret You Haven't Used Before](http://o2js.com/2011/10/29/fell-in-love-with-sublime-text-2/)
+
+
+[Best Practices for a Faster Web App](http://www.html5rocks.com/en/tutorials/speed/quick/)
+[The Fundamentals, Primitives and History of HTML5](http://paulirish.com/2011/primitives-html5-video/)
