@@ -30,11 +30,11 @@ Please feel free to contribute - the more the merrier!
 -------------------------
 * [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Transitions & Effects](#effects) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Testing Techniques](#testingTechniques) ・ [Sublime Text Tips](#sublimeTips)
 
------------------------------
+---
 
 [Hodge-podge](#hodgepodge)
 
------------------------------
+---
 
 <a name="technology"/>
 # Technologies
@@ -56,6 +56,9 @@ Please feel free to contribute - the more the merrier!
 * [W3C HTML5 Specification](http://www.w3.org/TR/html5/)
 * [WHATWG HTML Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
 * [A Web Developer's Guide to HTML5](http://dev.w3.org/html5/html-author/)
+* [Mobile HTML5](http://mobilehtml5.org)
+* [Field Guide to Web Apps](http://www.html5rocks.com/webappfieldguide/toc/index/)
+* [HTML5 Forms](http://wufoo.com/html5/)
 
 <a name="html5-templates"/>
 ### Templates
@@ -65,9 +68,10 @@ Please feel free to contribute - the more the merrier!
 
 <a name="html5-ebooks"/>
 ### eBook Frameworks
-* [Pugpig](http://pugpig.com/)
 * [Baker](http://bakerframework.com/)
+* [Inkling](https://www.inkling.com)
 * [Laker compendium](http://www.lakercompendium.com/)
+* [Pugpig](http://pugpig.com/)
 
 <a name="javascript"/>
 ## JavaScript
@@ -105,28 +109,25 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-misc"/>
 ### Various Useful Libraries
-* [JSON2](https://github.com/douglascrockford/JSON-js)
-* [Modernizr](http://www.modernizr.com/)
-* [yepnope.js](http://yepnopejs.com/)
-* [RequireJS](http://requirejs.org/)
-* [LABjs](http://labjs.com/)
-* [Underscore.js](http://underscorejs.org/)
 * [chainvas](http://leaverou.github.com/chainvas/)
+* [JSON2](https://github.com/douglascrockford/JSON-js)
+* [LABjs](http://labjs.com/)
 * [Lightning.js](http://lightningjs.com/)
+* [Modernizr](http://www.modernizr.com/)
+* [RequireJS](http://requirejs.org/)
+* [Almond](https://github.com/jrburke/almond)
 * [Sugar](http://sugarjs.com/)
 * [Terrific](http://www.terrifically.org/)
+* [Underscore.js](http://underscorejs.org/)
+* [yepnope.js](http://yepnopejs.com/)
 
 <a name="js-charting"/>
 ### Charting
-* [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
+* [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
+* [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
+* [flotr2](http://www.humblesoftware.com/flotr2/)
 * [Google Chart Tools / Image Charts (aka Chart API) - Google Code](http://code.google.com/apis/chart/)
 * [gRaphaël—Charting JavaScript Library](http://g.raphaeljs.com/)
-* [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
-* [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/)
-* [RGraph: HTML5 canvas graph library based on the HTML5 canvas tag](http://www.rgraph.net/)
-* [Simulchart](http://www.simulchart.com/)
-* [Smoothie Charts](http://smoothiecharts.org/)
-* [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
 
 <a name="js-mapping"/>
 ### Mapping
@@ -139,6 +140,8 @@ Please feel free to contribute - the more the merrier!
 * [Isotope](http://isotope.metafizzy.co/)
 * [impress.js](http://bartaz.github.com/impress.js)
 * [html5slides](http://code.google.com/p/html5slides/)
+* [Timeline.js](http://timeline.verite.co)
+* [sketch.js](https://github.com/soulwire/sketch.js)
 
 <a name="js-cmsg"/>
 ### Client-side Messaging
@@ -348,6 +351,7 @@ Please feel free to contribute - the more the merrier!
 * [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
 * [PDoc](http://pdoc.org/)
 * [docco](http://jashkenas.github.com/docco/)
+* [Dox](https://github.com/visionmedia/dox)
 
 <a name="mobileDeployment"/>
 ### Mobile Deployment
@@ -383,11 +387,19 @@ Please feel free to contribute - the more the merrier!
 
 <a name="cssTechniques"/>
 ### CSS & Presentation
+* [* { box-sizing: border-box } FTW](http://paulirish.com/2012/box-sizing-border-box-ftw/)
+* [Accordion with CSS3](http://tympanus.net/Tutorials/CSS3Accordion/)
+* [An Event Apart: CSS Best Practices](http://www.lukew.com/ff/entry.asp?1469)
+* [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Get into LESS](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/)
-* [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
-* [* { box-sizing: border-box } FTW](http://paulirish.com/2012/box-sizing-border-box-ftw/)
-* [An Event Apart: CSS Best Practices](http://www.lukew.com/ff/entry.asp?1469)
+* [Item Blur Effect](http://tympanus.net/Tutorials/ItemBlur/)
+* [Loading Animations](http://www.alessioatzeni.com/wp-content/tutorials/html-css/CSS3-Loading-Animation/index.html)
+* [Custom Forms](http://37signals.com/svn/posts/2609-customizing-web-forms-with-css3-and-webkit)
+* [3d Ribbons](http://www.pvmgarage.com/downloads/ribbon/)
+* [Rotating Billboard](http://tympanus.net/Tutorials/Billboard/)
+* [Shiny Knobs](http://demo.tutorialzine.com/2011/11/pretty-switches-css3-jquery/)
+* [Text on a Circle](http://css-tricks.com/set-text-on-a-circle/)
 
 <a name="effects"/>
 ### Effects & Transitions
@@ -405,6 +417,9 @@ Please feel free to contribute - the more the merrier!
 * [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
 * [The Goldilocks Approach](http://goldilocksapproach.com/)
 * [Use CSS transitions to link Media Queries and JavaScript](http://www.paulrhayes.com/2011-11/use-css-transitions-to-link-media-queries-and-javascript/)
+* [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
+* [Density Converter](http://www.teehanlax.com/blog/density-converter/)
+* [Responsive Data Table Roundup](http://css-tricks.com/responsive-data-table-roundup/)
 
 <a name="jsBlogs"/>
 ### JavaScript Blogs & Showcases
@@ -431,6 +446,7 @@ Please feel free to contribute - the more the merrier!
 <a name="testingTechniques"/>
 ### Testing Techniques
 * [JavaScript continuous testing](http://joseoncode.com/2011/08/08/javascript-continuous-testing-with-qunit-phantomjs-and-powershell/)
+* [Mobile Testing for Dummies](http://mobiletestingfordummies.tumblr.com)
 
 <a name="sublimeTips"/>
 ### Sublime Text 2 Tips
@@ -444,20 +460,49 @@ Please feel free to contribute - the more the merrier!
 ### Hodge-podge
 Many of these have been removed from above and others are just small or interesting:
 * [AngularJS](http://angularjs.org)
+* [Backbone UI](http://perka.github.com/backbone-ui/)
+* [Background Composer](http://glan.github.com/CSS-Patterns-Workbench/)
 * [Basket.js](http://addyosmani.github.com/basket.js/)
 * [batman.js](http://batmanjs.org/)
+* [Bootstrap Tour](http://pushly.github.com/bootstrap-tour/index.html)
+* [CanJS](http://canjs.us)
+* [Chaplin](http://9elements.com/io/?p=680)
+* [CSS3 Patterns Library](http://lea.verou.me/css3patterns/)
+* [D3.js](http://d3js.org)
 * [Dojo Mobile](http://dojotoolkit.org/features/mobile)
+* [dygraphs](http://dygraphs.com)
 * [EmbedJS](http://uxebu.github.com/embedjs/)
 * [Enyo](http://enyojs.com/)
 * [Ext JS](http://www.sencha.com/products/extjs/)
+* [Field Guide](http://jonrohan.me)
+* [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
+* [Fusion Charts](http://www.fusioncharts.com)
+* [Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Humble Finance](http://www.humblesoftware.com/finance/index)
 * [JavaScriptMVC](http://javascriptmvc.com/)
+* [jQuery Mobile Cookbook](http://jquerymobilecookbook.com)
+* [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/)
 * [Kendo UI](http://www.kendoui.com/)
+* [KineticJS](http://www.kineticjs.com)
 * [LungoJS](http://www.lungojs.com/)
+* [Meteor](http://meteor.com)
+* [Mobile Tuxedo](http://www.mobiletuxedo.com)
 * [MooTools](http://mootools.net/)
 * [Morris.js](http://oesmith.github.com/morris.js/)
+* [New Relic](http://newrelic.com)
 * [normalize.css](https://github.com/necolas/normalize.css/)
 * [qooxdoo](http://qooxdoo.org/)
+* [Racer](https://github.com/codeparty/racer)
+* [Reflection](https://reflectionapp.com)
+* [ResponsiveSlides.js](http://responsive-slides.viljamis.com)
+* [RGraph: HTML5 canvas graph library based on the HTML5 canvas tag](http://www.rgraph.net/)
+* [Rickshaw](http://code.shutterstock.com/rickshaw/)
 * [RightJS](http://rightjs.org/)
+* [Simulchart](http://www.simulchart.com/)
+* [Smoothie Charts](http://smoothiecharts.org/)
 * [Spine](http://spinejs.com/)
 * [Tower.js](http://towerjs.org)
+* [TypedJS](http://typedjs.com)
 * [Wink toolkit](http://www.winktoolkit.org/)
+* [Prism](http://prismjs.com)
+* [mashi](http://mashi.tv)
