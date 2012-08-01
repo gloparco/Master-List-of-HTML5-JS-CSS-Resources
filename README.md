@@ -12,7 +12,7 @@ Please feel free to contribute - the more the merrier!
 
 # Table of Contents
 
-[Technologies](#technologies)
+[Technologies](#technology)
 -----------------------------
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
 * **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Mapping](#js-mapping) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Client-Server Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
@@ -26,17 +26,17 @@ Please feel free to contribute - the more the merrier!
 #### [Tools for Development](#developerTools)
 * [Code Editors: Cross Platform](#codeEditorsX) ・ [Code Editors: Mac](#codeEditorsMac) ・ [Code Editors: Windows](#codeEditorsWin) ・ [CSS Editors](#cssEditors) ・ [IDE's](#ide) ・ [Code Quality](#codeQuality) ・ [Build Tools & Compressors](#buildTools) ・ [Performance](#performance) ・ [Code Sharing](#codeSharing) ・ [Debugging](#debugging) ・ [Testing](#testing) ・ [Emulators](#emulators) ・ [Documentation Generators](#docGenerators) ・ [Mobile Deployment](#mobileDeployment) ・ [Version Control](#versionControl) ・ [Miscellaneous](#miscTools)
 
-[Techniques](#techniques)
+[Techniques](#technique)
 -------------------------
 * [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Transitions & Effects](#effects) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Testing Techniques](#testingTechniques) ・ [Sublime Text Tips](#sublimeTips)
 
----
+-----------------------------
 
 [Hodge-podge](#hodgepodge)
 
----
+-----------------------------
 
-<a name="technologies"/>
+<a name="technology"/>
 # Technologies
 
 <a name="html5"/>
@@ -370,7 +370,7 @@ Please feel free to contribute - the more the merrier!
 
 ---
 
-<a name="techniques"/>
+<a name="technique"/>
 # Techniques
 
 <a name="generallyUseful"/>
