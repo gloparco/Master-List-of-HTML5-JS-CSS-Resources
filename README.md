@@ -44,27 +44,29 @@ Please feel free to contribute - the more the merrier!
 
 <a name="html5-books"/>
 ### Books & Reference
+* [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [A Web Developer's Guide to HTML5](http://dev.w3.org/html5/html-author/)
 * [Dive Into HTML5](http://diveintohtml5.info/)
-* [HTML5 Rocks](http://www.html5rocks.com)
-* [HTML5 Readiness](http://html5readiness.com/)
-* [When can I use...](http://caniuse.com/)
+* [Field Guide to Web Apps](http://www.html5rocks.com/webappfieldguide/toc/index/)
 * [HTML5 & CSS3 Support](http://www.findmebyip.com/litmus/)
 * [HTML5 Demos](http://html5demos.com/)
-* [The HTML5 test](http://html5test.com/)
+* [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
+* [HTML5 Forms](http://wufoo.com/html5/)
 * [HTML5 Please](http://html5please.us/)
+* [HTML5 Readiness](http://html5readiness.com/)
+* [HTML5 Rocks](http://www.html5rocks.com)
+* [Mobile HTML5](http://mobilehtml5.org)
 * [Periodic Table of the Elements](http://joshduck.com/periodic-table.html)
+* [The HTML5 test](http://html5test.com/)
 * [W3C HTML5 Specification](http://www.w3.org/TR/html5/)
 * [WHATWG HTML Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/)
-* [A Web Developer's Guide to HTML5](http://dev.w3.org/html5/html-author/)
-* [Mobile HTML5](http://mobilehtml5.org)
-* [Field Guide to Web Apps](http://www.html5rocks.com/webappfieldguide/toc/index/)
-* [HTML5 Forms](http://wufoo.com/html5/)
+* [When can I use...](http://caniuse.com/)
 
 <a name="html5-templates"/>
 ### Templates
+* [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Mobile Boilerplate](http://html5boilerplate.com/mobile)
-* [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/)
 
 <a name="html5-ebooks"/>
 ### eBook Frameworks
@@ -78,10 +80,10 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-frameworks"/>
 ### General Purpose Frameworks
-* [jQuery](http://jquery.com/)
-* [YUI](http://developer.yahoo.com/yui/)
 * [Dojo Toolkit](http://dojotoolkit.org/)
 * [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/)
+* [jQuery](http://jquery.com/)
+* [YUI](http://developer.yahoo.com/yui/)
 
 <a name="js-mobileWithWidgets"/>
 ### Mobile Frameworks with Widgets
@@ -90,32 +92,33 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-mobile"/>
 ### Mobile Frameworks without Widgets
-* [zepto.js](http://zeptojs.com/)
 * [o2.js](http://o2js.com/)
 * [xui.js](http://xuijs.com/)
+* [zepto.js](http://zeptojs.com/)
 
 <a name="js-mvc"/>
 ### MVC Frameworks
-* [Ember.js](http://emberjs.com/)
 * [Backbone.js](http://documentcloud.github.com/backbone/)
+* [Ember.js](http://emberjs.com/)
 * [Knockout](http://knockoutjs.com/)
 
 <a name="js-templating"/>
 ### Template Libraries
-* [mustache.js](https://github.com/janl/mustache.js)
 * [Handlebars.js](handlebarsjs.com)
 * [Hogan.js](http://twitter.github.com/hogan.js/)
 * [ICanHaz.js](http://icanhazjs.com/)
+* [mustache.js](https://github.com/janl/mustache.js)
 
 <a name="js-misc"/>
 ### Various Useful Libraries
+* [Almond](https://github.com/jrburke/almond)
 * [chainvas](http://leaverou.github.com/chainvas/)
+* [Hammer.js](http://eightmedia.github.com/hammer.js/)
 * [JSON2](https://github.com/douglascrockford/JSON-js)
 * [LABjs](http://labjs.com/)
 * [Lightning.js](http://lightningjs.com/)
 * [Modernizr](http://www.modernizr.com/)
 * [RequireJS](http://requirejs.org/)
-* [Almond](https://github.com/jrburke/almond)
 * [Sugar](http://sugarjs.com/)
 * [Terrific](http://www.terrifically.org/)
 * [Underscore.js](http://underscorejs.org/)
@@ -123,11 +126,11 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-charting"/>
 ### Charting
-* [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
-* [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
 * [flotr2](http://www.humblesoftware.com/flotr2/)
 * [Google Chart Tools / Image Charts (aka Chart API) - Google Code](http://code.google.com/apis/chart/)
 * [gRaphaël—Charting JavaScript Library](http://g.raphaeljs.com/)
+* [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
+* [ZingChart + Build HTML5 and Flash Charts & Graphs for Web Applications](http://www.zingchart.com/)
 
 <a name="js-mapping"/>
 ### Mapping
@@ -136,12 +139,12 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-graphics"/>
 ### Graphics & Presentation Libraries
-* [Processing.js](http://processingjs.org/)
-* [Isotope](http://isotope.metafizzy.co/)
-* [impress.js](http://bartaz.github.com/impress.js)
 * [html5slides](http://code.google.com/p/html5slides/)
-* [Timeline.js](http://timeline.verite.co)
+* [impress.js](http://bartaz.github.com/impress.js)
+* [Isotope](http://isotope.metafizzy.co/)
+* [Processing.js](http://processingjs.org/)
 * [sketch.js](https://github.com/soulwire/sketch.js)
+* [Timeline.js](http://timeline.verite.co)
 
 <a name="js-cmsg"/>
 ### Client-side Messaging
@@ -150,30 +153,30 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-smsg"/>
 ### Client-Server Messaging
+* [appMobi Cloud Services](http://www.appmobi.com/?q=node/137)
+* [Faye](http://faye.jcoglan.com)
+* [PubNub](http://www.pubnub.com/)
 * [Socket.io](http://socket.io)
 * [SockJS](http://sockjs.org)
-* [Faye](http://faye.jcoglan.com)
 * [StackMob](http://stackmob.com/)
-* [PubNub](http://www.pubnub.com/)
 * [Urban Airship](http://urbanairship.com/)
-* [appMobi Cloud Services](http://www.appmobi.com/?q=node/137)
 
 <a name="js-server"/>
 ### Server-side JavaScript
 * [node.js](http://nodejs.org/)
-	* [sequelize](https://github.com/sdepold/sequelize)
-	* [Express](http://expressjs.com/)
 	* [(fab)](https://github.com/jed/fab)
+	* [Express](http://expressjs.com/)
 	* [Restler](https://github.com/danwrong/restler)
+	* [sequelize](https://github.com/sdepold/sequelize)
 	* [should.js](https://github.com/visionmedia/should.js)
 
 <a name="js-gameEngines"/>
 ### Game Engines & Related
-* [Impact](http://impactjs.com/)
-* [EaselJS](http://easeljs.com/)
-* [LimeJS](http://www.limejs.com/)
 * [Crafty](http://craftyjs.com/)
 * [DirectCanvas](https://github.com/appMobi/ios)
+* [EaselJS](http://easeljs.com/)
+* [Impact](http://impactjs.com/)
+* [LimeJS](http://www.limejs.com/)
 
 <a name="js-gameAudio"/>
 ### Game Audio
@@ -183,9 +186,9 @@ Please feel free to contribute - the more the merrier!
 <a name="js-books"/>
 ### Books & Reference
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/)
 * [JavaScripture](http://www.javascripture.com/)
 * [wtfjs](http://wtfjs.com/)
+* [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/)
 
 <a name="css3"/>
 ## CSS3
@@ -198,11 +201,11 @@ Please feel free to contribute - the more the merrier!
 
 <a name="css-grids"/>
 ### Grid Systems & Boilerplates
-* [Skeleton](http://getskeleton.com/)
 * [960.gs](http://960.gs/)
-* [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
-* [YAML CSS Framework](http://www.yaml.de/)
 * [Blueprint](http://www.blueprintcss.org/)
+* [Skeleton](http://getskeleton.com/)
+* [YAML CSS Framework](http://www.yaml.de/)
+* [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
 
 <a name="css-frameworks"/>
 ### Frameworks
@@ -211,9 +214,9 @@ Please feel free to contribute - the more the merrier!
 
 <a name="css-icons"/>
 ### Icons & Fonts
-* [Google Web Fonts](http://www.google.com/webfonts)
-* [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [169 Icons](http://raphaeljs.com/icons/)
+* [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [Google Web Fonts](http://www.google.com/webfonts)
 * [iconSweets2](http://iconsweets2.com/)
 * [Premium Pixels](http://www.premiumpixels.com/)
 
@@ -230,22 +233,22 @@ Please feel free to contribute - the more the merrier!
 
 <a name="graphicsEditors"/>
 ### Graphics & Image Editors
-* [Pixelmator](http://www.pixelmator.com/)
 * [Adobe Photoshop](http://success.adobe.com/en/na/sem/products/photoshop.html)
 * [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
+* [Pixelmator](http://www.pixelmator.com/)
 
 <a name="vectorEditors"/>
 ### Vector Graphics Editors
-* [Inkscape](http://inkscape.org/)
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Corel Draw](http://www.corel.com/corel/category.jsp?rootCat=cat20146&cat=cat3430091)
+* [Inkscape](http://inkscape.org/)
 
 <a name="animation"/>
 ### Animation
-* [Tumult Hype](http://tumultco.com/hype/)
 * [Adobe Edge](http://labs.adobe.com/technologies/edge/)
-* [Sencha Animator](http://www.sencha.com/products/animator/)
 * [Ceaser - CSS Easing Animation Tool](http://matthewlein.com/ceaser/)
+* [Sencha Animator](http://www.sencha.com/products/animator/)
+* [Tumult Hype](http://tumultco.com/hype/)
 
 ---
 <a name="developerTools"/>
@@ -254,17 +257,17 @@ Please feel free to contribute - the more the merrier!
 <a name="codeEditorsX"/>
 ### Code Editors: Cross Platform
 * [Sublime Text 2](http://www.sublimetext.com/2)
+	* [Gene Loparco's Theme](http://blog.elemdage.com/wp-content/uploads/2012/01/Theme-Gene.zip)
+	* [SideBarGit](https://github.com/SublimeText/SideBarGit)
 	* [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 	* [Sublime SFTP](http://wbond.net/sublime_packages/sftp)
 	* [SublimeLinter](https://github.com/Kronuz/SublimeLinter)
-	* [SideBarGit](https://github.com/SublimeText/SideBarGit)
-	* [Gene Loparco's Theme](http://blog.elemdage.com/wp-content/uploads/2012/01/Theme-Gene.zip)
 
 <a name="codeEditorsMac"/>
 ### Code Editors: Mac Only
-* [TextMate](http://macromates.com/)
-* [MacVim](http://code.google.com/p/macvim/)
 * [BBEdit](http://www.barebones.com/products/bbedit/index.html?utm_source=thedeck&utm_medium=banner&utm_campaign=bbedit)
+* [MacVim](http://code.google.com/p/macvim/)
+* [TextMate](http://macromates.com/)
 * [TextWrangler](http://www.barebones.com/products/textwrangler/)
 
 <a name="codeEditorsWin"/>
@@ -277,100 +280,116 @@ Please feel free to contribute - the more the merrier!
 
 <a name="ide"/>
 ### Integrated Development Environments (IDE)
-* [WebStorm](http://www.jetbrains.com/webstorm/)
-* [NetBeans](http://netbeans.org/)
-* [Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
+* [Adobe Brackets](http://brackets.io)
 * [Aptana Studio](http://www.adobe.com/products/dreamweaver.html)
 * [Coda](http://panic.com/coda/)
+* [Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
 * [Espresso](http://macrabbit.com/espresso/)
+* [NetBeans](http://netbeans.org/)
+* [WebStorm](http://www.jetbrains.com/webstorm/)
 
 <a name="codeQuality"/>
 ### Code Quality
-* [jslint](http://www.jslint.com/)
 * [JSHint](http://www.jshint.com/)
+* [jslint](http://www.jslint.com/)
 
 <a name="buildTools"/>
 ### Build Tools & Compressors
-* [Google Closure Compiler](http://code.google.com/closure/compiler/)
-* [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 * [CodeKit](http://incident57.com/codekit/)
-* [SimpLESS](http://wearekiss.com/simpless)
-* [ProCSSor](http://procssorapp.com/)
+* [Google Closure Compiler](http://code.google.com/closure/compiler/)
 * [grunt](https://github.com/cowboy/grunt)
+* [ProCSSor](http://procssorapp.com/)
+* [SimpLESS](http://wearekiss.com/simpless)
+* [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 
 <a name="performance"/>
 ### Performance
-* [Page Speed](http://code.google.com/speed/page-speed/)
 * [Benchmark.js](http://benchmarkjs.com/)
 * [jsPerf](http://jsperf.com/)
-* [Mobitest](http://mobitest.akamai.com/m/index.cgi)
 * [Mobile Perf bookmarklet](http://stevesouders.com/mobileperf/mobileperfbkm.php)
+* [Mobitest](http://mobitest.akamai.com/m/index.cgi)
+* [Page Speed](http://code.google.com/speed/page-speed/)
 
 <a name="codeSharing"/>
 ### Code Sharing
+* [Cloud9 IDE](http://c9.io/)
+* [CodePen](http://codepen.io)
+* [JS Bin](http://jsbin.com)
 * [jsFiddle](http://jsfiddle.net)
 
 <a name="debugging"/>
 ### Debugging
-* [weinre](http://phonegap.github.com/weinre/)
+* [BrowserStack](http://www.browserstack.com/)
+* [Charles Web Debugging Proxy](http://www.charlesproxy.com/)
+* [CSS3 Please!](http://css3please.com/)
+* [gzipWTF](http://gzipwtf.com/)
+* [iWebInspector](http://www.iwebinspector.com/)
+* [JavaScript console](http://jsconsole.com/)
+* [Jdrop](http://jdrop.org/)
+* [Linear Gradients](http://westciv.com/tools/gradients/)
+* [Live.js](http://livejs.com)
 * [Resize](http://resizeSafari.com/)
 * [resizeMyBrowser](http://resizeMyBrowser.com/)
-* [JavaScript console](http://jsconsole.com/)
-* [Charles Web Debugging Proxy](http://www.charlesproxy.com/)
-* [Jdrop](http://jdrop.org/)
-* [BrowserStack](http://www.browserstack.com/)
-* [CSS3 Please!](http://css3please.com/)
-* [Linear Gradients](http://westciv.com/tools/gradients/)
+* [Vogue](http://aboutcode.net/vogue/)
+* [weinre](http://phonegap.github.com/weinre/)
 
 <a name="testing"/>
 ### Testing
+* [Adobe Shadow](http://success.adobe.com/en/na/sem/products/shadow.html)
 * [Buster.js](http://busterjs.org/)
-* [Sinon.js](http://sinonjs.org/)
+* [js-test-driver](http://code.google.com/p/js-test-driver/)
 * [JSCheck](http://www.JSCheck.org/)
+* [JSMock](http://jsmock.sourceforge.net)
+* [Mocha](http://visionmedia.github.com/mocha/)
+* [PhantomJS](http://www.phantomjs.org/)
+* [QUnit](http://docs.jquery.com/Qunit)
+* [Remote-Tilt](http://remote-tilt.com/)
+* [Responsinator](http://www.responsinator.com)
+* [Responsive Design Testing](http://mattkersley.com/responsive/)
+* [Sinon.js](http://sinonjs.org/)
 * [testling](http://www.testling.com/)
+* [testr](https://github.com/mattfysh/testr.js)
+* [Tutti](http://tuttijs.com/)
 * [Unit Test](https://gist.github.com/976405)
+* [wru](https://github.com/WebReflection/wru)
 * [YUI Test](http://developer.yahoo.com/yui/yuitest/)
 * [Zombie.js](http://zombie.labnotes.org/)
-* [js-test-driver](http://code.google.com/p/js-test-driver/)
-* [Tutti](http://tuttijs.com/)
-* [Remote-Tilt](http://remote-tilt.com/)
-* [PhantomJS](http://www.phantomjs.org/)
-* [Mocha](http://visionmedia.github.com/mocha/)
-* [QUnit](http://docs.jquery.com/Qunit)
-* [Responsive Design Testing](http://mattkersley.com/responsive/)
 
 <a name="emulators"/>
 ### Emulators
-* [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
 * [Adobe Device Central](http://www.adobe.com/products/devicecentral.html)
+* [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
 * [Mobile Emulators and Simulators](www.mobilexweb.com/emulators)
 
 <a name="docGenerators"/>
 ### Documentation Generators
-* [JSDoc2](http://code.google.com/p/jsdoc-toolkit/)
-* [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
-* [PDoc](http://pdoc.org/)
 * [docco](http://jashkenas.github.com/docco/)
 * [Dox](https://github.com/visionmedia/dox)
+* [JSDoc2](http://code.google.com/p/jsdoc-toolkit/)
+* [PDoc](http://pdoc.org/)
+* [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
 
 <a name="mobileDeployment"/>
 ### Mobile Deployment
-* [PhoneGap](http://phonegap.com/)
-* [Titanium](http://www.appcelerator.com/products/titanium-cross-platform-application-development/)
 * [appMobi](http://www.appmobi.com/)
 * [NimbleKit](http://www.nimblekit.com/)
+* [PhoneGap](http://phonegap.com/)
 * [TestFlight](https://testflightapp.com/)
+* [Titanium](http://www.appcelerator.com/products/titanium-cross-platform-application-development/)
 
 <a name="versionControl"/>
 ### Version Control
+* [git - the simple guide](http://rogerdudler.github.com/git-guide/)
 * [Git Reference](http://gitref.org/)
 * [Gitbox](http://www.gitboxapp.com/)
-* [git - the simple guide](http://rogerdudler.github.com/git-guide/)
 
 <a name="miscTools"/>
 ### Miscellaneous
-* [Loremify](http://tobiasahlin.com/blog/introducing-loremify/)
 * [Codiqa jQuery Prototype Builder](http://www.codiqa.com/)
+* [colllor](http://colllor.com)
+* [Gradient App](http://www.gradientapp.com)
+* [Gradient Editor](http://www.colorzilla.com/gradient-editor/)
+* [Loremify](http://tobiasahlin.com/blog/introducing-loremify/)
 
 ---
 
@@ -403,72 +422,91 @@ Please feel free to contribute - the more the merrier!
 
 <a name="effects"/>
 ### Effects & Transitions
+* [Animate.css](http://daneden.me/animate/)
 * [Curtain.js](http://curtain.victorcoulon.fr/)
 * [Image Content Slider](http://designmodo.com/slider-css3/)
 * [reveal.js](http://lab.hakim.se/reveal-js/#/)
-* [Animate.css](http://daneden.me/animate/)
 
 <a name="responsive"/>
 ### Responsive Web Design
-* [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [Cross Device Tutorial](http://www.html5rocks.com/en/mobile/cross-device/)
+* [Density Converter](http://www.teehanlax.com/blog/density-converter/)
 * [Fluid grids, orientation & resolution independence](http://blog.responsivenews.co.uk/post/13925578846/fluid-grids-orientation-resolution-independence)
-* [Media Queries for Standard Devices](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 * [Hardboiled CSS3 Media Queries](http://www.stuffandnonsense.co.uk/blog/about/hardboiled_css3_media_queries/)
 * [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [Media Queries for Standard Devices](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+* [Media Queries](http://mediaqueri.es)
+* [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
+* [Responsive Data Table Roundup](http://css-tricks.com/responsive-data-table-roundup/)
+* [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
+* [Responsive Wireframes](http://www.thismanslife.co.uk/projects/lab/responsivewireframes/)
+* [Simple Responsive Device Diagram](http://www.metaltoad.com/blog/simple-device-diagram-responsive-design-planning)
 * [The Goldilocks Approach](http://goldilocksapproach.com/)
 * [Use CSS transitions to link Media Queries and JavaScript](http://www.paulrhayes.com/2011-11/use-css-transitions-to-link-media-queries-and-javascript/)
-* [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
-* [Density Converter](http://www.teehanlax.com/blog/density-converter/)
-* [Responsive Data Table Roundup](http://css-tricks.com/responsive-data-table-roundup/)
 
 <a name="jsBlogs"/>
 ### JavaScript Blogs & Showcases
 * [CreativeJS](http://creativejs.com/)
-* [Seb Lee-Delisle](http://sebleedelisle.com/blog/)
 * [o2.js](http://o2js.com/)
+* [Seb Lee-Delisle](http://sebleedelisle.com/blog/)
 
 <a name="jsPatterns"/>
 ### JavaScript Patterns
-* [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
+* [Choosing JavaScript Module Dependency Syntax](http://blog.calyptus.eu/seb/2011/10/choosing-a-javascript-module-syntax/)
 * [Essential JavaScript Design Patterns For Beginners](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
+* [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
+* [JS Better Faster](http://www.bcherry.net/talks/js-better-faster)
+* [Patterns for modules and namespaces in JavaScript](http://www.2ality.com/2011/04/modules-and-namespaces-in-javascript.html)
 * [The JavaScript Module Pattern](http://o2js.com/2011/04/24/the-module-pattern/)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
-* [Choosing JavaScript Module Dependency Syntax](http://blog.calyptus.eu/seb/2011/10/choosing-a-javascript-module-syntax/)
-* [Patterns for modules and namespaces in JavaScript](http://www.2ality.com/2011/04/modules-and-namespaces-in-javascript.html)
 
 <a name="wapps"/>
 ### Web Apps
-* [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
+* [Best Practices for a Faster Web App](http://www.html5rocks.com/en/tutorials/speed/quick/)
+* [Cache them if you can](http://www.stevesouders.com/blog/2012/03/22/cache-them-if-you-can/)
 * [Mobile Web & HTML5](http://www.slideshare.net/firt/mobile-web-html5-performance-optimization)
+* [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
 * [Scaling Your JavaScript Applications](http://addyosmani.com/scalable-javascript-videos/)
 
 <a name="testingTechniques"/>
 ### Testing Techniques
-* [JavaScript continuous testing](http://joseoncode.com/2011/08/08/javascript-continuous-testing-with-qunit-phantomjs-and-powershell/)
 * [Mobile Testing for Dummies](http://mobiletestingfordummies.tumblr.com)
+* [JavaScript continuous testing](http://joseoncode.com/2011/08/08/javascript-continuous-testing-with-qunit-phantomjs-and-powershell/)
 
 <a name="sublimeTips"/>
 ### Sublime Text 2 Tips
-* [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 * [9 reasons you must install Sublime Text 2](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)
 * [An Editor You Will Regret You Haven't Used Before](http://o2js.com/2011/10/29/fell-in-love-with-sublime-text-2/)
+* [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 
 ---
 
 <a name="hodgepodge"/>
 ### Hodge-podge
-Many of these have been removed from above and others are just small or interesting:
+Many of these have been removed from above and others are just small or interesting or as yet undiscovered:
 * [AngularJS](http://angularjs.org)
+* [Backbone Biolerplate](https://github.com/tbranyen/backbone-boilerplate)
 * [Backbone UI](http://perka.github.com/backbone-ui/)
 * [Background Composer](http://glan.github.com/CSS-Patterns-Workbench/)
 * [Basket.js](http://addyosmani.github.com/basket.js/)
 * [batman.js](http://batmanjs.org/)
 * [Bootstrap Tour](http://pushly.github.com/bootstrap-tour/index.html)
+* [Bootswatch](http://bootswatch.com/)
+* [Box - CSS Framework](https://github.com/vladocar/Box-CSS-Framework)
 * [CanJS](http://canjs.us)
 * [Chaplin](http://9elements.com/io/?p=680)
+* [Coin Slider](http://workshop.rs/projects/coin-slider/)
+* [CreateJS](http://createjs.com)
+* [Cross Browser Progress Bars](http://www.useragentman.com/blog/2012/01/03/cross-browser-html5-progress-bars-in-depth/)
+* [CSS & jQuery Clickable Map](http://winstonwolf.pl/clickable-maps/europe.html)
+* [CSS Hat](http://csshat.com)
+* [CSS Reflow](http://cssreflow.com/)
 * [CSS3 Patterns Library](http://lea.verou.me/css3patterns/)
 * [D3.js](http://d3js.org)
+* [DepthJS](https://github.com/doug/depthjs)
+* [Device.js](https://github.com/borismus/device.js)
 * [Dojo Mobile](http://dojotoolkit.org/features/mobile)
 * [dygraphs](http://dygraphs.com)
 * [EmbedJS](http://uxebu.github.com/embedjs/)
@@ -476,33 +514,48 @@ Many of these have been removed from above and others are just small or interest
 * [Ext JS](http://www.sencha.com/products/extjs/)
 * [Field Guide](http://jonrohan.me)
 * [flot - Project Hosting on Google Code](http://code.google.com/p/flot/)
+* [Foresight.js](https://github.com/adamdbradley/foresight.js)
 * [Fusion Charts](http://www.fusioncharts.com)
 * [Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [grunt](https://github.com/cowboy/grunt)
 * [Humble Finance](http://www.humblesoftware.com/finance/index)
 * [JavaScriptMVC](http://javascriptmvc.com/)
+* [JPEGmini](http://www.jpegmini.com)
 * [jQuery Mobile Cookbook](http://jquerymobilecookbook.com)
 * [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/)
+* [jQuery Toast Messages](http://akquinet.github.com/jquery-toastmessage-plugin/demo/demo.html)
 * [Kendo UI](http://www.kendoui.com/)
 * [KineticJS](http://www.kineticjs.com)
 * [LungoJS](http://www.lungojs.com/)
+* [mashi](http://mashi.tv)
 * [Meteor](http://meteor.com)
 * [Mobile Tuxedo](http://www.mobiletuxedo.com)
+* [Montage](http://tetsubo.org/home/montage/)
 * [MooTools](http://mootools.net/)
+* [moqups](https://moqups.com/)
 * [Morris.js](http://oesmith.github.com/morris.js/)
 * [New Relic](http://newrelic.com)
 * [normalize.css](https://github.com/necolas/normalize.css/)
+* [Parallax.js](http://stolksdorf.github.com/Parallaxjs/)
+* [Prism](http://prismjs.com)
+* [proto.io](https://proto.io/)
 * [qooxdoo](http://qooxdoo.org/)
+* [QUOjs](http://quojs.tapquo.com)
 * [Racer](https://github.com/codeparty/racer)
+* [Recline.js](http://reclinejs.com/)
 * [Reflection](https://reflectionapp.com)
+* [Responsive Image Loader](http://github.com/tubalmartin/riloadr)
+* [Responsive+](https://vannavada.com/2012/05/01/introducing-responsive-plus/)
 * [ResponsiveSlides.js](http://responsive-slides.viljamis.com)
 * [RGraph: HTML5 canvas graph library based on the HTML5 canvas tag](http://www.rgraph.net/)
 * [Rickshaw](http://code.shutterstock.com/rickshaw/)
 * [RightJS](http://rightjs.org/)
 * [Simulchart](http://www.simulchart.com/)
 * [Smoothie Charts](http://smoothiecharts.org/)
+* [soma.js](http://somajs.github.com/somajs/)
 * [Spine](http://spinejs.com/)
+* [Touchy.js](https://github.com/jairajs89/Touchy.js)
 * [Tower.js](http://towerjs.org)
 * [TypedJS](http://typedjs.com)
+* [ViniSketch Designer](http://www.vinisketch.fr/mainSite/en.html)
 * [Wink toolkit](http://www.winktoolkit.org/)
-* [Prism](http://prismjs.com)
-* [mashi](http://mashi.tv)
