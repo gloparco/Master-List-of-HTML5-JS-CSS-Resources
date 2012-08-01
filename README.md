@@ -15,8 +15,8 @@ Please feel free to contribute - the more the merrier!
 [Technologies](#technologies)
 -----------------------------
 * **[HTML5](#html5):** &nbsp; [Books & Reference](#html5-books) ・ [Templates](#html5-templates) ・ [eBook Frameworks](#html5-ebooks)
-* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Mapping](#js-mapping) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Services & Push Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
-* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Icons & Fonts](#css-icons) ・ [Various Useful Links](#css-misc)
+* **[JavaScript](#javascript):** &nbsp; [Frameworks](#js-frameworks) ・ [Mobile Frameworks w/Widgets](#js-mobileWithWidgets) ・ [Mobile Frameworks w/o Widgets](#js-mobile) ・ [MVC Frameworks](#js-mvc) ・ [Template Libraries](#js-templating) ・ [Various Useful Libs](#js-misc) ・ [Charting](#js-charting) ・ [Mapping](#js-mapping) ・ [Graphics & Presentation Libraries](#js-graphics) ・ [Client-side Messaging](#js-cmsg) ・ [Client-Server Messaging](#js-smsg) ・ [Server-side JavaScript](#js-server) ・ [Game Engines](#js-gameEngines) ・ [Game Audio](#js-gameAudio) ・ [Books & Reference](#js-books)
+* **[CSS3](#css3):** &nbsp; [Stylesheet Language Extensions](#css-ext) ・ [Grid Systems](#css-grids) ・ [Frameworks](#css-frameworks) ・ [Icons & Fonts](#css-icons)
 
 [Tools](#designTools)
 ---------------------
@@ -29,6 +29,10 @@ Please feel free to contribute - the more the merrier!
 [Techniques](#techniques)
 -------------------------
 * [Generally Useful Sites](#generallyUseful) ・ [CSS & Presentation](#cssTechniques) ・ [Transitions & Effects](#effects) ・ [Responsive Web Design](#responsive) ・ [JavaScript Blogs](#jsBlogs) ・ [JavaScript Patterns](#jsPatterns) ・ [Web Apps](#wapps) ・ [Testing Techniques](#testingTechniques) ・ [Sublime Text Tips](#sublimeTips)
+
+---
+
+[Hodge-podge](#hodgepodge)
 
 ---
 
@@ -74,37 +78,23 @@ Please feel free to contribute - the more the merrier!
 * [YUI](http://developer.yahoo.com/yui/)
 * [Dojo Toolkit](http://dojotoolkit.org/)
 * [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/)
-* [Ext JS](http://www.sencha.com/products/extjs/)
-* [MooTools](http://mootools.net/)
-* [qooxdoo](http://qooxdoo.org/)
-* [Enyo](http://enyojs.com/)
 
 <a name="js-mobileWithWidgets"/>
 ### Mobile Frameworks with Widgets
 * [jQuery Mobile](http://jquerymobile.com/)
-* [Dojo Mobile](http://dojotoolkit.org/features/mobile)
 * [Sencha Touch](http://www.sencha.com/products/touch)
-* [Kendo UI](http://www.kendoui.com/)
-* [Wink toolkit](http://www.winktoolkit.org/)
 
 <a name="js-mobile"/>
 ### Mobile Frameworks without Widgets
 * [zepto.js](http://zeptojs.com/)
 * [o2.js](http://o2js.com/)
 * [xui.js](http://xuijs.com/)
-* [RightJS](http://rightjs.org/)
-* [EmbedJS](http://uxebu.github.com/embedjs/)
-* [LungoJS](http://www.lungojs.com/)
 
 <a name="js-mvc"/>
 ### MVC Frameworks
 * [Ember.js](http://emberjs.com/)
 * [Backbone.js](http://documentcloud.github.com/backbone/)
 * [Knockout](http://knockoutjs.com/)
-* [JavaScriptMVC](http://javascriptmvc.com/)
-* [AngularJS](http://angularjs.org)
-* [batman.js](http://batmanjs.org/)
-* [Spine](http://spinejs.com/)
 
 <a name="js-templating"/>
 ### Template Libraries
@@ -152,10 +142,14 @@ Please feel free to contribute - the more the merrier!
 
 <a name="js-cmsg"/>
 ### Client-side Messaging
+* [Radio.js](http://radio.uxder.com)
 * [TIBCO PageBus](http://developer.tibco.com/pagebus/)
 
 <a name="js-smsg"/>
-### Services & Push Messaging
+### Client-Server Messaging
+* [Socket.io](http://socket.io)
+* [SockJS](http://sockjs.org)
+* [Faye](http://faye.jcoglan.com)
 * [StackMob](http://stackmob.com/)
 * [PubNub](http://www.pubnub.com/)
 * [Urban Airship](http://urbanairship.com/)
@@ -219,10 +213,6 @@ Please feel free to contribute - the more the merrier!
 * [169 Icons](http://raphaeljs.com/icons/)
 * [iconSweets2](http://iconsweets2.com/)
 * [Premium Pixels](http://www.premiumpixels.com/)
-
-<a name="css-misc"/>
-### Various Useful Links
-* [normalize.css](https://github.com/necolas/normalize.css/)
 
 ---
 
@@ -448,6 +438,26 @@ Please feel free to contribute - the more the merrier!
 * [9 reasons you must install Sublime Text 2](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)
 * [An Editor You Will Regret You Haven't Used Before](http://o2js.com/2011/10/29/fell-in-love-with-sublime-text-2/)
 
+---
 
-[Best Practices for a Faster Web App](http://www.html5rocks.com/en/tutorials/speed/quick/)
-[The Fundamentals, Primitives and History of HTML5](http://paulirish.com/2011/primitives-html5-video/)
+<a name="hodgepodge"/>
+### Hodge-podge
+Many of these have been removed from above and others are just small or interesting:
+* [AngularJS](http://angularjs.org)
+* [Basket.js](http://addyosmani.github.com/basket.js/)
+* [batman.js](http://batmanjs.org/)
+* [Dojo Mobile](http://dojotoolkit.org/features/mobile)
+* [EmbedJS](http://uxebu.github.com/embedjs/)
+* [Enyo](http://enyojs.com/)
+* [Ext JS](http://www.sencha.com/products/extjs/)
+* [JavaScriptMVC](http://javascriptmvc.com/)
+* [Kendo UI](http://www.kendoui.com/)
+* [LungoJS](http://www.lungojs.com/)
+* [MooTools](http://mootools.net/)
+* [Morris.js](http://oesmith.github.com/morris.js/)
+* [normalize.css](https://github.com/necolas/normalize.css/)
+* [qooxdoo](http://qooxdoo.org/)
+* [RightJS](http://rightjs.org/)
+* [Spine](http://spinejs.com/)
+* [Tower.js](http://towerjs.org)
+* [Wink toolkit](http://www.winktoolkit.org/)
