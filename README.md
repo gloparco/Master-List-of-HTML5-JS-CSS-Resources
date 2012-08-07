@@ -550,6 +550,7 @@ Many of these have been removed from above and others are just small or interest
 * [RGraph: HTML5 canvas graph library based on the HTML5 canvas tag](http://www.rgraph.net/)
 * [Rickshaw](http://code.shutterstock.com/rickshaw/)
 * [RightJS](http://rightjs.org/)
+* [ShareJS](http://sharejs.org)
 * [Simulchart](http://www.simulchart.com/)
 * [Smoothie Charts](http://smoothiecharts.org/)
 * [soma.js](http://somajs.github.com/somajs/)
