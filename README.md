@@ -337,6 +337,7 @@ Please feel free to contribute - the more the merrier!
 ### Testing
 * [Adobe Shadow](http://success.adobe.com/en/na/sem/products/shadow.html)
 * [Buster.js](http://busterjs.org/)
+* [Jasmine](http://pivotal.github.com/jasmine/)
 * [js-test-driver](http://code.google.com/p/js-test-driver/)
 * [JSCheck](http://www.JSCheck.org/)
 * [JSMock](http://jsmock.sourceforge.net)
