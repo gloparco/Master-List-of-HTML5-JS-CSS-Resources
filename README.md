@@ -487,6 +487,7 @@ Please feel free to contribute - the more the merrier!
 <a name="hodgepodge"/>
 ### Hodge-podge
 Many of these have been removed from above and others are just small or interesting or as yet undiscovered:
+* [Add to Home screen](http://cubiq.org/add-to-home-screen)
 * [AngularJS](http://angularjs.org)
 * [Backbone Biolerplate](https://github.com/tbranyen/backbone-boilerplate)
 * [Backbone UI](http://perka.github.com/backbone-ui/)
