@@ -481,6 +481,7 @@ Please feel free to contribute - the more the merrier!
 * [9 reasons you must install Sublime Text 2](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)
 * [An Editor You Will Regret You Haven't Used Before](http://o2js.com/2011/10/29/fell-in-love-with-sublime-text-2/)
 * [Sublime Text 2 Tips and Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
+* [Sublime Text Workflow That Beats Coda and Espresso](http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/)
 
 ---
 
