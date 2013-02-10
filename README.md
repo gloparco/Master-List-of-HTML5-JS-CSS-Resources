@@ -219,6 +219,7 @@ Please feel free to contribute - the more the merrier!
 * [Google Web Fonts](http://www.google.com/webfonts)
 * [iconSweets2](http://iconsweets2.com/)
 * [Premium Pixels](http://www.premiumpixels.com/)
+* [Font Awesome - icons](http://fortawesome.github.com/Font-Awesome/)
 
 ---
 
@@ -287,6 +288,7 @@ Please feel free to contribute - the more the merrier!
 * [Espresso](http://macrabbit.com/espresso/)
 * [NetBeans](http://netbeans.org/)
 * [WebStorm](http://www.jetbrains.com/webstorm/)
+* [Orion](https://orionhub.org)
 
 <a name="codeQuality"/>
 ### Code Quality
