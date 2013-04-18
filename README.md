@@ -136,6 +136,7 @@ Please feel free to contribute - the more the merrier!
 ### Mapping
 * [gmaps.js](http://hpneo.github.com/gmaps/)
 * [Leaflet](http://leaflet.cloudmade.com/)
+* [OpenLayers](http://www.openlayers.org)
 
 <a name="js-graphics"/>
 ### Graphics & Presentation Libraries
