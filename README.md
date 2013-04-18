@@ -220,6 +220,7 @@ Please feel free to contribute - the more the merrier!
 * [Google Web Fonts](http://www.google.com/webfonts)
 * [iconSweets2](http://iconsweets2.com/)
 * [Premium Pixels](http://www.premiumpixels.com/)
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ---
 
