@@ -12,15 +12,15 @@ Below, you will find:
 
 These sites are the best of the best at providing compelling, current content on design and CSS coding.
 
-#### <span style="color: #090">Highest Recommendation</span>
+##### Highest Recommendation
 * [CSS-Tricks](http://css-tricks.com/)
 
-#### Other Recommended Options
+##### Other Recommended Options
 * [A List Apart](http://www.alistapart.com/)
 * [Boxes and Arrows](http://www.boxesandarrows.com/)
 * [Codrops](http://tympanus.net/codrops/)
 
-#### Articles & Discussions
+##### Articles & Discussions
 * [* { box-sizing: border-box } FTW](http://paulirish.com/2012/box-sizing-border-box-ftw/)
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
 * [Field Guide](http://jonrohan.me)
