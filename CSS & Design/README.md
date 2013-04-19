@@ -7,8 +7,8 @@ Below, you will find:
 * **Design:** &nbsp; Colors & Patterns ・ Icons & Fonts ・ Responsive Web Design
 * **Tools:** &nbsp; Code Playgrounds ・ CSS Preprocessors ・ Image Editors ・ Interactive Mockups ・ Vector Graphics Editors
 
----
 ### ***Expert Guidance***
+---
 
 These sites are the best of the best at providing compelling, current content on design and CSS coding.
 
