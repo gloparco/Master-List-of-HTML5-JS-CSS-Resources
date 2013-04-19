@@ -28,7 +28,7 @@ These sites are the best of the best at providing compelling, current content on
 * [When is a stylesheet really loaded?](http://www.phpied.com/when-is-a-stylesheet-really-loaded/)
 
 ---
-### ***CSS: Animation***
+## ***CSS: Animation***
 
 Animation, transitions, and motion effects have become essential for an effective user experience.
 
@@ -46,7 +46,7 @@ Animation, transitions, and motion effects have become essential for an effectiv
 * [Transitional Interfaces](https://medium.com/design-ux/926eb80d64e3)
 
 ---
-### ***CSS: Effects***
+## ***CSS: Effects***
 Techniques used to achieve various visual effects using CSS.
 
 #### Articles & Discussions
@@ -60,7 +60,7 @@ Techniques used to achieve various visual effects using CSS.
 * [Text on a Circle](http://css-tricks.com/set-text-on-a-circle/)
 
 ---
-### ***CSS: Frameworks***
+## ***CSS: Frameworks***
 Front-end frameworks allow you to style and layout your UI's more efficiently.
 
 #### Highest Recommendation
@@ -74,7 +74,7 @@ Front-end frameworks allow you to style and layout your UI's more efficiently.
 * [Twitter Bootstrap 101](http://webdesign.tutsplus.com/tutorials/complete-websites/twitter-bootstrap-101-introduction/)
 
 ---
-### ***CSS: Grid Systems***
+## ***CSS: Grid Systems***
 Grids allow you to split your screen up into blocks, similar to newspapers, allowing you to more easily control layout.
 
 #### Highest Recommendation
@@ -93,7 +93,7 @@ Grids allow you to split your screen up into blocks, similar to newspapers, allo
 * [Grid CSS layouts. Tell me the reasons to not use](http://stackoverflow.com/questions/3455024/grid-css-layouts-tell-me-the-reasons-to-not-use)
 
 ---
-### ***Design: Colors & Patterns***
+## ***Design: Colors & Patterns***
 An effective color palette can enhance the appeal of your site or app.
 
 #### Highest Recommendation
@@ -105,7 +105,7 @@ An effective color palette can enhance the appeal of your site or app.
 * [kuler](https://kuler.adobe.com/)
 
 ---
-### ***Design: Icons & Fonts***
+## ***Design: Icons & Fonts***
 Using icon fonts in today's world of varying screen sizes and resolutions is a very effective technique.
 
 #### Highest Recommendation
@@ -126,7 +126,7 @@ Using icon fonts in today's world of varying screen sizes and resolutions is a v
 * [Why And How To Use Icon Fonts](http://www.vanseodesign.com/web-design/icon-fonts/)
 
 ---
-### ***Design: Responsive Web Design***
+## ***Design: Responsive Web Design***
 RWD is without a doubt one of the most overused, overhyped, and overloaded buzzwords in the history of the web.  That being said, it remains a solid design technique for many situations.
 
 #### Articles & Discussions
@@ -146,7 +146,7 @@ RWD is without a doubt one of the most overused, overhyped, and overloaded buzzw
 * [Use CSS transitions to link Media Queries and JavaScript](http://www.paulrhayes.com/2011-11/use-css-transitions-to-link-media-queries-and-javascript/)
 
 ---
-### ***Tools: Code Playgrounds***
+## ***Tools: Code Playgrounds***
 If you want to have a sandbox, where you can play around with your latest CSS ideas and tests, these resources will give you what you need.  Make changes to your changes in your code and instantly see the results, all within your browser.
 
 #### Highest Recommendation
@@ -160,7 +160,7 @@ If you want to have a sandbox, where you can play around with your latest CSS id
 * [Meet CodePen: Dribbble for Coders](http://designshack.net/articles/css/meet-codepen-dribbble-for-coders/)
 
 ---
-### ***Tools: CSS Preprocessors***
+## ***Tools: CSS Preprocessors***
 Preprocessors save you time and make your CSS code more manageable through the use of variables, mix-in's (reusable groups of styles), and many other constructs.  The preprocessing "language" is a superset of CSS and compiles into pure CSS for deployment.
 
 #### Highest Recommendation
@@ -175,7 +175,7 @@ Preprocessors save you time and make your CSS code more manageable through the u
 * [The problem with CSS pre-processors](http://blog.millermedeiros.com/the-problem-with-css-pre-processors/)
 
 ---
-### ***Tools: Image Editors***
+## ***Tools: Image Editors***
 These tools are a must have for any graphic designer.  They are essential for creating app icons, backgrounds, or nearly any other graphic resource.
 
 #### Highest Recommendation
@@ -186,7 +186,7 @@ These tools are a must have for any graphic designer.  They are essential for cr
 * [Pixelmator](http://www.pixelmator.com/)
 
 ---
-### ***Tools: Interactive Mockups***
+## ***Tools: Interactive Mockups***
 While static images have their place, they are just not enough to convey user interactions, and things like animation.  This is where interactive mockups can help get the point across.
 
 #### Highest Recommendation
@@ -204,7 +204,7 @@ While static images have their place, they are just not enough to convey user in
 * [Facebook Home prototyped in Quartz Composer - Tutorial](https://news.layervault.com/stories/3117-facebook-home-prototyped-in-quartz-composer--tutorial)
 
 ---
-### ***Tools: Vector Graphics Editors***
+## ***Tools: Vector Graphics Editors***
 These tools seem to be more relevent now than ever.  Due to the increase in the variation of screen size, resolutions, and pixel densities, more and more products require the use of scalable vector graphics.  These tools are used to create such graphics.
 
 #### Highest Recommendation
