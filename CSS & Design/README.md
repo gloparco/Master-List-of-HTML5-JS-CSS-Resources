@@ -8,12 +8,11 @@ Below, you will find:
 * **Tools:** &nbsp; Code Playgrounds ・ CSS Preprocessors ・ Image Editors ・ Interactive Mockups ・ Vector Graphics Editors
 
 ---
-### Expert Guidance
+### ***Expert Guidance***
 
----
 These sites are the best of the best at providing compelling, current content on design and CSS coding.
 
-#### Highest Recommendation
+#### <span style="color: #090">Highest Recommendation</span>
 * [CSS-Tricks](http://css-tricks.com/)
 
 #### Other Recommended Options
@@ -29,12 +28,11 @@ These sites are the best of the best at providing compelling, current content on
 * [When is a stylesheet really loaded?](http://www.phpied.com/when-is-a-stylesheet-really-loaded/)
 
 ---
-### CSS: Animation
+### ***CSS: Animation***
 
----
 Animation, transitions, and motion effects have become essential for an effective user experience.
 
-#### Highest Recommendation
+#### <span style="color: #090">Highest Recommendation</span>
 * [Animate.css](http://daneden.me/animate/)
 
 #### Other Recommended Options
