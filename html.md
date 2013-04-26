@@ -18,6 +18,7 @@ These sites are the best of the best at providing compelling, current content on
 #### Other Recommended Options
 * [HTML5 Doctor](http://html5doctor.com)
 * [Mozilla Hacks](http://hacks.mozilla.org)
+* [Paul Irish](http://paulirish.com)
 
 ---
 ## ***Books & Reference***

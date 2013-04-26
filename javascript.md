@@ -3,9 +3,11 @@
 Below, you will find:
 
 * **Expert Guidance**
-* **JavaScript:** &nbsp; Animation ・ Effects ・  Frameworks ・ Grid Systems
-* **Design:** &nbsp; Colors & Patterns ・ Icons & Fonts ・ Responsive Web Design
-* **Tools:** &nbsp; Code Playgrounds ・ CSS Preprocessors ・ Image Editors ・ Interactive Mockups ・ Vector Graphics Editors
+* **Books & Reference**
+* **Coding:** &nbsp; Debugging ・ Documenting ・ Optimizing ・ Sharing ・ Testing
+* **Core Libraries:** &nbsp; Full Featured ・ Lightweight ・  Mobile ・  MVC Frameworks ・  Templating
+* **Other Libraries:** &nbsp; Charting ・ Dynamic Loading ・ Feature Detection ・ Mapping ・ Messaging ・ Touch Interface
+* **Server-side JS**
 
 ---
 ## ***Expert Guidance***
@@ -13,13 +15,12 @@ Below, you will find:
 These sites are the best of the best at providing compelling, current content on the JavaScript language, patterns, coding techniques, sample code, and/or interesting libraries.
 
 #### Highest Recommendation
+* [CreativeJS](http://creativejs.com/)
 * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/JavaScript)
 
 #### Other Recommended Options
-* [Crockford on JavaScript](http://yuiblog.com/crockford/)
+* [Addy Osmani](http://addyosmani.com/blog/)
 * [DailyJS](http://dailyjs.com)
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 #### Articles & Discussions
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript/A_re-introduction_to_JavaScript)
@@ -38,137 +39,70 @@ These sites are the best of the best at providing compelling, current content on
 These resources are more static in nature and provide a great foundation for your JavaScript learning.
 
 #### Highest Recommendation
-[Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference)
+* [MDN JavaScript Reference)](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
 
 #### Other Recommended Options
-* [A Beginner’s Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
-* [An Advanced Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
-* [CSS Programming](http://en.wikibooks.org/wiki/CSS_Programming)
-* [Field Guide](http://jonrohan.me)
-* [Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-* [Scalable and Modular Architecture for CSS](http://smacss.com)
+* [Crockford on JavaScript](http://yuiblog.com/crockford/)
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [JavaScript Interview Questions](http://o2js.com/interview-questions/)
+* [wtfjs](http://wtfjs.com/)
 
 ---
-## ***Full Featured Libraries***
+## ***Coding: Debugging***
 
-These libraries have been around forever and are very desktop centric.  The highest recommendation will be no surprise to anyone.
+These tools help you find problems in your code.
 
 #### Highest Recommendation
-* [jQuery](http://jquery.com/)
+* [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/)
+* [BrowserStack](http://www.browserstack.com/)
 
 #### Other Recommended Options
-* [Dojo Toolkit](http://dojotoolkit.org/)
-* [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/)
-* [YUI](http://developer.yahoo.com/yui/)
+* [Android Emulator](http://developer.android.com/guide/developing/tools/emulator.html)
+* [Charles Web Debugging Proxy](http://www.charlesproxy.com/)
+* [gzipWTF](http://gzipwtf.com/)
+* [resizeMyBrowser](http://resizeMyBrowser.com/) & [Resize](http://resizeSafari.com/)
+* [traceGL](https://trace.gl)
 
 ---
-## ***Lightweight Libraries***
+## ***Coding: Documenting***
 
-These libraries were created with mobile in mind, as they are very lightweight and give you all the features that most people use the full featured libraries for.
+These tools help document your code
 
 #### Highest Recommendation
-* [zepto.js](http://zeptojs.com/)
+* [docco](http://jashkenas.github.com/docco/)
 
 #### Other Recommended Options
-* [o2.js](http://o2js.com/)
-* [xui.js](http://xuijs.com/)
+* [JSDoc3](https://github.com/jsdoc3/jsdoc)
+* [PDoc](http://pdoc.org/)
+* [YUIDoc](http://developer.yahoo.com/yui/yuidoc/)
 
 ---
-## ***Mobile Libraries***
+## ***Coding: Optimizing***
 
-These libraries may rely on their desktop counterparts (e.g., jQuery Mobile), or are mobile-only replacement libraries (e.g., Sencha Touch)
+Everyone wants a high performing site or app.  These libraries will assist you in that quest.
 
 #### Highest Recommendation
-* None - there are no solutions that I would give the highest recommendation to at this point.  The beta version of jQuery Mobile might change that once it goes to production.
+* [Page Speed](http://code.google.com/speed/page-speed/)
 
 #### Other Recommended Options
-* [jQuery Mobile](http://jquerymobile.com/)
-* [Sencha Touch](http://www.sencha.com/products/touch)
+* [Benchmark.js](http://benchmarkjs.com/)
+* [Mobile Perf bookmarklet](http://stevesouders.com/mobileperf/mobileperfbkm.php)
+* [Mobitest](http://mobitest.akamai.com/m/index.cgi)
 
 ---
-## ***MVC Frameworks***
+## ***Coding: Sharing***
 
-These frameworks offer the basics (e.g., backbone.js), or are extensive and prescriptive (e.g., ember.js).  Regardless, all exist to provide a clean separation between the interface, its interactions, and the data model.
+These sites make it easy to test out, demonstrate, or just share your code with others.
 
 #### Highest Recommendation
-* [Backbone.js](http://documentcloud.github.com/backbone/)
-	* Dependency for Backbone.js: [Underscore.js](http://underscorejs.org/)
+* [CodePen](http://codepen.io)
 
 #### Other Recommended Options
-* [AngularJS](http://angularjs.org)
-* [Ember.js](http://emberjs.com/)
+* [jsFiddle](http://jsfiddle.net)
 
 ---
-## ***Templating***
-
-These libraries enable client-side templating.
-
-#### Highest Recommendation
-* [Handlebars.js](handlebarsjs.com)
-
-#### Other Recommended Options
-* [Hogan.js](http://twitter.github.com/hogan.js/)
-* [ICanHaz.js](http://icanhazjs.com/)
-* [mustache.js](https://github.com/janl/mustache.js)
-
----
-## ***Dynamic Loading***
-
-These libraries are used to dynamically load JavaScript modules, CSS files, or other web assets.
-
-#### Highest Recommendation
-* [RequireJS](http://requirejs.org/)
-
-#### Other Recommended Options
-* [yepnope.js](http://yepnopejs.com/)
-
----
-## ***Touch Interface Support***
-
-These libraries enable support for touch devices by handling taps, double taps, swipes, gestures, and more.
-
-#### Highest Recommendation
-* [Hammer.js](http://eightmedia.github.com/hammer.js/)
-
-#### Other Recommended Options
-* [QUOjs](http://quojs.tapquo.com/)
-
----
-## ***Feature Detection***
-
-These libraries determine device/browser capabilities based on their feature support.  In addition, they provide polyfills (fallback support) for many cases where features are not natively supported.
-
-#### Highest Recommendation
-* [Modernizr](http://www.modernizr.com/)
-
----
-## ***Charting***
-
-Whether you need a basic pie chart, or a complex financial graph, one of these libraries is likely to fit the bill.
-
-#### Highest Recommendation
-* [HighchartsJS](http://www.highcharts.com/)
-
-#### Other Recommended Options
-* [amCharts](http://www.amcharts.com/)
-* [ZingChart](http://www.zingchart.com/)
-
----
-## ***Mapping***
-
-Whether you need a basic pie chart, or a complex financial graph, one of these libraries is likely to fit the bill.
-
-#### Highest Recommendation
-* [OpenStreetMap](http://www.openstreetmap.org), in conjunction with:
-	* [Leaflet](http://leaflet.cloudmade.com/)
-	* [OpenLayers](http://www.openlayers.org)
-
-#### Other Recommended Options
-* [modest maps](http://modestmaps.com)
-* [Polymaps](http://polymaps.org)
-
----
-## ***Testing***
+## ***Coding: Testing***
 
 From unit tests to regression tests to code coverage tests and everything inbetween, these tools have you covered.
 
@@ -188,4 +122,159 @@ From unit tests to regression tests to code coverage tests and everything inbetw
 * [Zombie.js](http://zombie.labnotes.org/)
 
 #### Articles & Discussions
-[jasmine tactics screencast](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
+* [jasmine tactics screencast](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
+
+---
+## ***Core Libs: Full Featured***
+
+These libraries have been around forever and are very desktop centric.  The highest recommendation will be no surprise to anyone.
+
+#### Highest Recommendation
+* [jQuery](http://jquery.com/)
+
+#### Other Recommended Options
+* [Dojo Toolkit](http://dojotoolkit.org/)
+* [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/)
+* [YUI](http://developer.yahoo.com/yui/)
+
+---
+## ***Core Libs: Lightweight***
+
+These libraries were created with mobile in mind, as they are very lightweight and give you all the features that most people use the full featured libraries for.
+
+#### Highest Recommendation
+* [zepto.js](http://zeptojs.com/)
+
+#### Other Recommended Options
+* [o2.js](http://o2js.com/)
+* [xui.js](http://xuijs.com/)
+
+---
+## ***Core Libs: Mobile***
+
+These libraries may rely on their desktop counterparts (e.g., jQuery Mobile), or are mobile-only replacement libraries (e.g., Sencha Touch)
+
+#### Highest Recommendation
+* None - there are no solutions that I would give the highest recommendation to at this point.  The beta version of jQuery Mobile might change that once it goes to production.
+
+#### Other Recommended Options
+* [jQuery Mobile](http://jquerymobile.com/)
+* [Sencha Touch](http://www.sencha.com/products/touch)
+
+---
+## ***Core Libs: MVC Frameworks***
+
+These frameworks offer the basics (e.g., backbone.js), or are extensive and prescriptive (e.g., ember.js).  Regardless, all exist to provide a clean separation between the interface, its interactions, and the data model.
+
+#### Highest Recommendation
+* [Backbone.js](http://documentcloud.github.com/backbone/)
+	* Dependency for Backbone.js: [Underscore.js](http://underscorejs.org/)
+
+#### Other Recommended Options
+* [AngularJS](http://angularjs.org)
+* [Ember.js](http://emberjs.com/)
+
+---
+## ***Core Libs: Templating***
+
+These libraries enable client-side templating.
+
+#### Highest Recommendation
+* [Handlebars.js](handlebarsjs.com)
+
+#### Other Recommended Options
+* [Hogan.js](http://twitter.github.com/hogan.js/)
+* [ICanHaz.js](http://icanhazjs.com/)
+* [mustache.js](https://github.com/janl/mustache.js)
+
+---
+## ***Libraries: Charting***
+
+Whether you need a basic pie chart, or a complex financial graph, one of these libraries is likely to fit the bill.
+
+#### Highest Recommendation
+* [HighchartsJS](http://www.highcharts.com/)
+
+#### Other Recommended Options
+* [amCharts](http://www.amcharts.com/)
+* [ZingChart](http://www.zingchart.com/)
+
+---
+## ***Libraries: Dynamic Loading***
+
+These libraries are used to dynamically load JavaScript modules, CSS files, or other web assets.
+
+#### Highest Recommendation
+* [RequireJS](http://requirejs.org/)
+
+#### Other Recommended Options
+* [yepnope.js](http://yepnopejs.com/)
+
+---
+## ***Libraries: Feature Detection***
+
+These libraries determine device/browser capabilities based on their feature support.  In addition, they provide polyfills (fallback support) for many cases where features are not natively supported.
+
+#### Highest Recommendation
+* [Modernizr](http://www.modernizr.com/)
+
+---
+## ***Libraries: Mapping***
+
+Whether you need a basic pie chart, or a complex financial graph, one of these libraries is likely to fit the bill.
+
+#### Highest Recommendation
+* [OpenStreetMap](http://www.openstreetmap.org), in conjunction with:
+	* [Leaflet](http://leaflet.cloudmade.com/)
+	* [OpenLayers](http://www.openlayers.org)
+
+#### Other Recommended Options
+* [modest maps](http://modestmaps.com)
+* [Polymaps](http://polymaps.org)
+
+---
+## ***Libraries: Messaging***
+
+These libraries give you the plumbing you need to implement client-side messaging methodologies, such as pubsub.
+
+#### Highest Recommendation
+* [PubSubJS](https://github.com/mroderick/PubSubJS)
+* [Socket.io](http://socket.io)
+* [SockJS](http://sockjs.org)
+
+#### Other Recommended Options
+* [Faye](http://faye.jcoglan.com)
+* [PubNub](http://www.pubnub.com/)
+* [TIBCO PageBus](http://developer.tibco.com/pagebus/)
+* [Urban Airship](http://urbanairship.com/)
+
+---
+## ***Libraries: Touch Interface***
+
+These libraries enable support for touch devices by handling taps, double taps, swipes, gestures, and more.
+
+#### Highest Recommendation
+* [Hammer.js](http://eightmedia.github.com/hammer.js/)
+
+#### Other Recommended Options
+* [QUOjs](http://quojs.tapquo.com/)
+
+---
+## ***Server-side JS***
+
+There really is just one platform you need to know about: Node.js.  The other links are either node modules or module loaders.
+
+#### Highest Recommendation
+* [node.js](http://nodejs.org/)
+* [npm](https://npmjs.org/)
+
+#### Other Recommended Options
+* [cradle](https://github.com/cloudhead/cradle)
+* [Express](http://expressjs.com/)
+* [findit](https://github.com/substack/node-findit)
+* [node-static](https://github.com/cloudhead/node-static)
+* [node-xml2js](https://github.com/substack/node-findit)
+* [optimist](https://github.com/substack/node-optimist)
+* [Restler](https://github.com/danwrong/restler)
+* [sequelize](https://github.com/sequelize/sequelize)
+* [should.js](https://github.com/visionmedia/should.js)

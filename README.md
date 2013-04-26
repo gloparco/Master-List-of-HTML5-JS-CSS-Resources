@@ -2,7 +2,7 @@
 
 This list started out as a [blog post](http://blog.elemdage.com/technology/master-list-of-html5jsscss-resources), with the intent of sharing a list of HTML5, JavaScript, and CSS3 resources that I found very useful.  Feel free to read the [original article](http://blog.elemdage.com/technology/master-list-of-html5jsscss-resources) to see what links I deemed relevent in January of 2011.
 
-The structure of this list has changed from a single file (which can still be found [here](originalList.md), to a more organized, yet still simple, collection of files.  This should make it a bit easier to organize, digest, and maintain (for those who would like to contribute).
+The structure of this list has changed from a single file (which can still be found [here](originalList.md)), to a more organized, yet still simple, collection of files.  This should make it a bit easier to organize, digest, and maintain (for those who would like to contribute).
 
 I have also taken a more opinionated stance on what to include, and what to recommend to others, based upon my experiences in the field, and my consumption of a varied and vast number of articles on the subjects.  Note that most of the resources listed herein are free and open source.  There are exceptions, but for the most part, you can obtain all the knowledge and tools you need to become a crack front end designer or developer thanks to the hard work of others.  Please consider donating to individuals or purchasing tools whenever possible to help support this thriving ecosystem.
 
