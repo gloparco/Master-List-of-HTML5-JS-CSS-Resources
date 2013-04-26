@@ -3,6 +3,7 @@
 Below, you will find:
 
 * **Expert Guidance**
+* **Books & Reference**
 * **CSS:** &nbsp; Animation ・ Effects ・  Frameworks ・ Grid Systems
 * **Design:** &nbsp; Colors & Patterns ・ Icons & Fonts ・ Responsive Web Design
 * **Tools:** &nbsp; Code Playgrounds ・ CSS Preprocessors ・ Image Editors ・ Interactive Mockups ・ Vector Graphics Editors
@@ -23,9 +24,23 @@ These sites are the best of the best at providing compelling, current content on
 #### Articles & Discussions
 * [* { box-sizing: border-box } FTW](http://paulirish.com/2012/box-sizing-border-box-ftw/)
 * [Centering in the Unknown](http://css-tricks.com/centering-in-the-unknown)
+* [When is a stylesheet really loaded?](http://www.phpied.com/when-is-a-stylesheet-really-loaded/)
+
+---
+## ***Books & Reference***
+
+These resources are more static in nature and provide a great foundation for your CSS learning.
+
+#### Highest Recommendation
+[Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference)
+
+#### Other Recommended Options
+* [A Beginner’s Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [An Advanced Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [CSS Programming](http://en.wikibooks.org/wiki/CSS_Programming)
 * [Field Guide](http://jonrohan.me)
 * [Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-* [When is a stylesheet really loaded?](http://www.phpied.com/when-is-a-stylesheet-really-loaded/)
+* [Scalable and Modular Architecture for CSS](http://smacss.com)
 
 ---
 ## ***CSS: Animation***
@@ -84,6 +99,7 @@ Grids allow you to split your screen up into blocks, similar to newspapers, allo
 * [960.gs](http://960.gs/)
 * [Blueprint](http://www.blueprintcss.org/)
 * [Foundation: Grid System](http://foundation.zurb.com/grid.php)
+* [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/)
 * [YAML CSS Framework](http://www.yaml.de/)
 * [YUI 2: Grids CSS](http://developer.yahoo.com/yui/grids/)
 
