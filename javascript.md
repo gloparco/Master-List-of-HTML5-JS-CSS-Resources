@@ -25,6 +25,7 @@ These sites are the best of the best at providing compelling, current content on
 #### Articles & Discussions
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript/A_re-introduction_to_JavaScript)
 * [Choosing JavaScript Module Dependency Syntax](http://blog.calyptus.eu/seb/2011/10/choosing-a-javascript-module-syntax/)
+* [Essential JavaScript Namespacing Patterns](http://addyosmani.com/blog/essential-js-namespacing/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
 * [JavaScript Programming Patterns](http://www.klauskomenda.com/code/javascript-programming-patterns/)
@@ -90,6 +91,13 @@ Everyone wants a high performing site or app.  These libraries will assist you i
 * [Mobile Perf bookmarklet](http://stevesouders.com/mobileperf/mobileperfbkm.php)
 * [Mobitest](http://mobitest.akamai.com/m/index.cgi)
 
+#### Articles & Discussions
+* [Best Practices for a Faster Web App](http://www.html5rocks.com/en/tutorials/speed/quick/)
+* [Cache them if you can](http://www.stevesouders.com/blog/2012/03/22/cache-them-if-you-can/)
+* [Mobile Web & HTML5](http://www.slideshare.net/firt/mobile-web-html5-performance-optimization)
+* [Scalable web apps: the complexity issue](http://ariya.ofilabs.com/2012/01/scalable-web-apps-the-complexity-issue.html)
+* [Scaling Your JavaScript Applications](http://addyosmani.com/scalable-javascript-videos/)
+
 ---
 ## ***Coding: Sharing***
 
@@ -123,6 +131,8 @@ From unit tests to regression tests to code coverage tests and everything inbetw
 
 #### Articles & Discussions
 * [jasmine tactics screencast](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
+* [JavaScript continuous testing](http://joseoncode.com/2011/08/08/javascript-continuous-testing-with-qunit-phantomjs-and-powershell/)
+* [Mobile Testing for Dummies](http://mobiletestingfordummies.tumblr.com)
 
 ---
 ## ***Core Libs: Full Featured***
@@ -158,6 +168,7 @@ These libraries may rely on their desktop counterparts (e.g., jQuery Mobile), or
 * None - there are no solutions that I would give the highest recommendation to at this point.  The beta version of jQuery Mobile might change that once it goes to production.
 
 #### Other Recommended Options
+* [Dojo Mobile](http://dojotoolkit.org/features/mobile)
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Sencha Touch](http://www.sencha.com/products/touch)
 
@@ -173,6 +184,7 @@ These frameworks offer the basics (e.g., backbone.js), or are extensive and pres
 #### Other Recommended Options
 * [AngularJS](http://angularjs.org)
 * [Ember.js](http://emberjs.com/)
+* [Enyo](http://enyojs.com/)
 
 ---
 ## ***Core Libs: Templating***
@@ -217,6 +229,9 @@ These libraries determine device/browser capabilities based on their feature sup
 
 #### Highest Recommendation
 * [Modernizr](http://www.modernizr.com/)
+
+#### Other Recommended Options
+* [Device.js](https://github.com/borismus/device.js)
 
 ---
 ## ***Libraries: Mapping***

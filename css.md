@@ -67,7 +67,9 @@ Techniques used to achieve various visual effects using CSS.
 #### Articles & Discussions
 * [3d Ribbons](http://www.pvmgarage.com/downloads/ribbon/)
 * [Accordion with CSS3](http://tympanus.net/Tutorials/CSS3Accordion/)
+* [CSS3 Patterns Library](http://lea.verou.me/css3patterns/)
 * [Custom Forms](http://37signals.com/svn/posts/2609-customizing-web-forms-with-css3-and-webkit)
+* [Image Content Slider](http://designmodo.com/slider-css3/)
 * [Item Blur Effect](http://tympanus.net/Tutorials/ItemBlur/)
 * [reveal.js](http://lab.hakim.se/reveal-js/#/)
 * [Rotating Billboard](http://tympanus.net/Tutorials/Billboard/)
@@ -80,6 +82,7 @@ Front-end frameworks allow you to style and layout your UI's more efficiently.
 
 #### Highest Recommendation
 * [Bootstrap](http://twitter.github.com/bootstrap/)
+	* also useful: [Bootswatch](http://bootswatch.com/))
 
 #### Other Recommended Options
 * [Foundation](http://foundation.zurb.com/)
