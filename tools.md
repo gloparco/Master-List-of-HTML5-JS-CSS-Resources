@@ -45,6 +45,8 @@ These tools give inform you of problem areas in your code based on established b
 #### Other Recommended Options
 * [jslint](http://www.jslint.com/)
 
+---
+
 ## ***Debugging***
 
 #### Highest Recommendation
