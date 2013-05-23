@@ -35,6 +35,7 @@ These resources are more static in nature and provide a great foundation for you
 [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference)
 
 #### Other Recommended Options
+* [Learn CSS layout](http://learnlayout.com/)
 * [A Beginner’s Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [An Advanced Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [CSS Programming](http://en.wikibooks.org/wiki/CSS_Programming)
