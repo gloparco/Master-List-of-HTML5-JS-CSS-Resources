@@ -19,7 +19,7 @@ The new list is now broken up into the following topics:
 * [Mobile](mobile.md)
 * [Tools](tools.md)
 
-**Articles & Resources updated Daily**
+**Articles & Resources, Updated Daily**
 * [JavaScript, CSS, HTML5](http://flip.it/PB323) - Front end design & development magazine curated by @gloparco 
 
 NOTE: I am in the process of migrating the old list into these new categories, while adding/subtracting/reorganizing at the same time.  While it is a work in progress, you will still find useful information.  Keep in mind, you can always see the original list [here](originalList.md).
