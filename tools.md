@@ -20,6 +20,7 @@ Almost all projects can benefit from automated build processes.  These tools can
 
 #### Other Recommended Options
 * [CodeKit](http://incident57.com/codekit/)
+* [gulp.js](http://gulpjs.com)
 
 ---
 
@@ -28,6 +29,7 @@ These tools compile your JS and CSS files into a "minified" version, thereby red
 
 #### Highest Recommendation
 * [Google Closure Compiler](http://code.google.com/closure/compiler/)
+* [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 #### Other Recommended Options
 * [ProCSSor](http://procssorapp.com/)
@@ -110,17 +112,16 @@ These code editors are for Windows users only.
 ---
 
 ## ***Editors: IDE's***
-Integrated Development Environments are a mixed bag.  On the one hand, they give you every feature under the sun; on the other hand, they give you every feature under the sun.
+Integrated Development Environments are a mixed bag.  On the one hand, they give you every feature under the sun; on the other hand, they give you every feature under the sun.  Note that with their high memory consumption and resulting sluggishness, as well as the steep learning curve required to take advantage of every feature, it is recommended that a code editor be looked at as a viable alternative.
 
 #### Highest Recommendation
-* None - with their high memory consumption and resulting sluggishness, as well as the steep learning curve required to take advantage of every feature, it is recommended that a code editor be looked at as a viable alternative.
+* [WebStorm](http://www.jetbrains.com/webstorm/)
 
 #### Other Recommended Options
 * [Aptana Studio](http://www.adobe.com/products/dreamweaver.html)
 * [Coda](http://panic.com/coda/)
 * [Espresso](http://macrabbit.com/espresso/)
 * [NetBeans](http://netbeans.org/)
-* [WebStorm](http://www.jetbrains.com/webstorm/)
 
 ---
 ## ***Playgrounds***
