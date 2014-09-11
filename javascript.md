@@ -153,11 +153,12 @@ These libraries have been around forever and are very desktop centric.  The high
 These libraries were created with mobile in mind, as they are very lightweight and give you all the features that most people use the full featured libraries for.
 
 #### Highest Recommendation
-* [zepto.js](http://zeptojs.com/)
+* None - at this point, I see no reason not to use jQuery in lieu of any of these libs.  After compression and gzipping, there is not a sizable difference in size.  And zepto.js has shown to be brittle in the past with various os and browser upgrades.
 
 #### Other Recommended Options
 * [o2.js](http://o2js.com/)
 * [xui.js](http://xuijs.com/)
+* [zepto.js](http://zeptojs.com/)
 
 ---
 ## ***Core Libs: Mobile***
@@ -165,7 +166,7 @@ These libraries were created with mobile in mind, as they are very lightweight a
 These libraries may rely on their desktop counterparts (e.g., jQuery Mobile), or are mobile-only replacement libraries (e.g., Sencha Touch)
 
 #### Highest Recommendation
-* None - there are no solutions that I would give the highest recommendation to at this point.  The beta version of jQuery Mobile might change that once it goes to production.
+* None - there are no solutions that I would give the highest recommendation to at this point.
 
 #### Other Recommended Options
 * [Dojo Mobile](http://dojotoolkit.org/features/mobile)
@@ -178,11 +179,11 @@ These libraries may rely on their desktop counterparts (e.g., jQuery Mobile), or
 These frameworks offer the basics (e.g., backbone.js), or are extensive and prescriptive (e.g., ember.js).  Regardless, all exist to provide a clean separation between the interface, its interactions, and the data model.
 
 #### Highest Recommendation
+* [AngularJS](http://angularjs.org)
 * [Backbone.js](http://documentcloud.github.com/backbone/)
 	* Dependency for Backbone.js: [Underscore.js](http://underscorejs.org/)
 
 #### Other Recommended Options
-* [AngularJS](http://angularjs.org)
 * [Ember.js](http://emberjs.com/)
 * [Enyo](http://enyojs.com/)
 
