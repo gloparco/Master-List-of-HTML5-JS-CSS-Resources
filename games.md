@@ -18,15 +18,13 @@ These sites are the best of the best at providing compelling, current content on
 These libraries provide you with all you need for javascript-based games - audio, canvas manipulation, sprites, and more.
 
 #### Highest Recommendation
-* [Construct 2](https://www.scirra.com/construct2)
+* [pixi.js](http://www.pixijs.com)
 
 #### Other Recommended Options
-* [CAAT](http://labs.hyperandroid.com/static/caat/)
-* [Crafty](http://craftyjs.com/)
+* [Construct 2](https://www.scirra.com/construct2)
 * [CreateJS](http://createjs.com)
-* [Impact](http://impactjs.com/)
-* [LimeJS](http://www.limejs.com/)
-* [three.js](http://mrdoob.github.io/three.js/)
+* [Phaser](http://phaser.io)
+* [Panda.js](http://www.pandajs.net)
 
 ---
 ## ***Packagers***
@@ -34,6 +32,7 @@ These tools help you to deploy your games to the most popular app stores.
 
 #### Highest Recommendation
 * [Cocoon](http://www.ludei.com/tech/cocoonjs)
+* [PhoneGap](http://phonegap.com)
 
 #### Other Recommended Options
 * [Ejecta](http://impactjs.com/ejecta)
