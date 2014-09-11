@@ -40,7 +40,7 @@ These sites are the best of the best at providing compelling, current content on
 These resources are more static in nature and provide a great foundation for your JavaScript learning.
 
 #### Highest Recommendation
-* [MDN JavaScript Reference)](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
+* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
 
 #### Other Recommended Options
 * [Crockford on JavaScript](http://yuiblog.com/crockford/)
