@@ -49,6 +49,7 @@ Animation, transitions, and motion effects have become essential for an effectiv
 
 #### Highest Recommendation
 * [Animate.css](http://daneden.me/animate/)
+* [Processing](http://processing.org)
 
 #### Other Recommended Options
 * [Adobe Edge](http://labs.adobe.com/technologies/edge/)
