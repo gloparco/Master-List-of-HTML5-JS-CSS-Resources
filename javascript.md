@@ -210,6 +210,8 @@ Whether you need a basic pie chart, or a complex financial graph, one of these l
 
 #### Other Recommended Options
 * [amCharts](http://www.amcharts.com/)
+* [AnyChart](http://www.anychart.com)
+* [D3](http://d3js.org)
 * [ZingChart](http://www.zingchart.com/)
 
 ---
