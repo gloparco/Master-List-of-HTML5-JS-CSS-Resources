@@ -156,4 +156,4 @@ If you work on a team of 2 or more, you need version control.  It's even a good 
 
 #### Articles & Discussions
 * [git - the simple guide](http://rogerdudler.github.com/git-guide/)
-* [Git Reference](http://gitref.org/)
+* [Git commands explained](https://coddy.tech/git-commands)

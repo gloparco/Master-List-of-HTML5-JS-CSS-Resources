@@ -383,7 +383,7 @@ Please feel free to contribute - the more the merrier!
 <a name="versionControl"/>
 ### Version Control
 * [git - the simple guide](http://rogerdudler.github.com/git-guide/)
-* [Git Reference](http://gitref.org/)
+* [Git commands explained](https://coddy.tech/git-commands)
 * [Gitbox](http://www.gitboxapp.com/)
 
 <a name="miscTools"/>
